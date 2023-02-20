@@ -8,18 +8,12 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $primary;
+    background-color: $bass-raft-brand;
     @include heading-font;
   }
   .navbar-brand {
-    color: $primary;
+    color: $bass-raft-brand;
     @include script-font;
-    &.active,
-    &:active,
-    &:focus,
-    &:hover {
-      color: darken($primary, 10%);
-    }
   }
   .navbar-nav {
     .nav-item {
@@ -32,7 +26,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $primary;
+          color: $bass-raft-brand;
         }
       }
     }
@@ -40,13 +34,13 @@
 }
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: $gray-900;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
     .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
@@ -58,15 +52,6 @@
         .nav-link {
           padding: 1.1em 1em !important;
         }
-      }
-    }
-    &.navbar-shrink {
-      padding-top: 0;
-      padding-bottom: 0;
-      background-color: $gray-900;
-      .navbar-brand {
-        font-size: 1.25em;
-        padding: 12px 0;
       }
     }
   }
