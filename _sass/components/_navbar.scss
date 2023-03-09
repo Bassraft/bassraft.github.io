@@ -8,11 +8,11 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $bass-raft-brand;
+    background-color: $primary;
     @include heading-font;
   }
   .navbar-brand {
-    color: $bass-raft-brand;
+    color: $primary;
     @include script-font;
   }
   .navbar-nav {
@@ -26,7 +26,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $bass-raft-brand;
+          color: $primary;
         }
       }
     }
