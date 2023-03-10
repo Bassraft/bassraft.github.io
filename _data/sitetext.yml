@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "The Bass Raft"
-#    text: "Lorem ipsum"
+    title: "Prototype #3"
+    text: "Preorder now - $1899"
     section: services
     list:
       - title: "Prototype III"
@@ -64,8 +64,12 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: ""
-    body: "It all started when..."
+    text: "I don't like kayak fishing..."
+    body: >
+      It all started with an idea sitting around one Sunday. 
+      I want a fishing platform, kayaks are so uncomfortable. 
+      It should be like the deck of a bass boat, up high enough to see things.
+      Now here we are on our third prototype of the Bass Raft and ready to take it even further.
     section: about
 
   clients:
@@ -124,7 +128,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Pre Order Now"
     text: ""
     section: contact
     name: "Name*"
@@ -135,7 +139,7 @@ en: &DEFAULT_EN
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Submit"
 
   footer:
     legal: "Privacy Policy"
