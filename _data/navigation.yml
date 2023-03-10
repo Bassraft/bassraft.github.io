@@ -11,10 +11,6 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Shop"
-      section: services
-    - title: "About"
-      section: timeline
 en-US:
   <<: *DEFAULT_EN
 en-CA:
