@@ -1,14 +1,13 @@
----
-layout: default
----
-{% include nav.html %}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head-custom.html %}
+  <body>
+      {% include navigation.html %}
+      {% include page_header.html %}
+      {{ content }}
+      {% include footer.html %}
 
-{% if page.background == "grey" or page.background == "gray" %}
-<script>
-document.getElementById("page-top").className="bg-light";
-</script>
-{% endif %}
+      {% include bootstrap-js.html %}
+  </body>
+</html>
 
-<div class="container" id="pagecontainer">
-{{ content }}
-</div>
