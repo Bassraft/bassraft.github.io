@@ -9,8 +9,36 @@ img.bassraft-logo {
   color: white;
 }
 
+.section-light {
+  background-color: $gray-300;
+  color: black;
+}
+
+.section-white {
+  background-color: white;
+  color: black;
+}
+
 .btn-primary {
   background-color: green;
   border-color: green;
   border-radius: 10px;
 }
+
+// Desktop styling
+
+
+@include media-breakpoint-up(lg) {
+
+  img.bassraft-logo {
+    height: auto;
+    width: 15em;
+  }
+
+  .navbar-nav {
+    text-align: top;
+  }
+
+}
+
+

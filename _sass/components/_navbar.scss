@@ -40,25 +40,24 @@
 
     @include media-breakpoint-up(lg) {
         border-bottom: $border-width solid transparent;
-        background: transparent;
 
         .navbar-brand {
-            color: $gray-700;
+            color: $gray-900;
 
             &:focus,
             &:hover {
-                color: fade-out($gray-700, .2);
+                color: fade-out($gray-900, .2);
             }
         }
 
         .navbar-nav {
             >li.nav-item {
                 >a.nav-link {
-                    color: $gray-700;
+                    color: $gray-900;
 
                     &:focus,
                     &:hover {
-                        color: fade-out($gray-700, .2);
+                        color: fade-out($gray-900, .2);
                     }
                 }
             }
@@ -93,22 +92,12 @@
 
             .navbar-brand {
                 color: $body-color;
-
-                &:focus,
-                &:hover {
-                    color: $primary;
-                }
             }
 
             .navbar-nav {
                 >li.nav-item {
                     >a {
                         color: $body-color;
-
-                        &:focus,
-                        &:hover {
-                            color: $primary;
-                        }
                     }
                 }
             }
