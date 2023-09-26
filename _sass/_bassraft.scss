@@ -25,6 +25,12 @@ img.bassraft-logo {
   border-radius: 10px;
 }
 
+.catalog-tile {
+  @extend .col-sm;
+  @extend .text-center;
+  @extend .p-3;
+}
+
 // Desktop styling
 
 
