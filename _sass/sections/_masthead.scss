@@ -9,10 +9,9 @@ header.masthead {
     padding-bottom: 15rem;
 
     // TIP: Background images are set within the HTML using inline CSS!
-    background: no-repeat center center;
-    background-color: $gray-600;
+    background: no-repeat center;
+    background-position: top;
     background-size: cover;
-    background-attachment: scroll;
 
     // Create the overlay for the masthead
     // Modify the overlay color and opacity in src/variables/overlay.scss
@@ -24,7 +23,7 @@ header.masthead {
         right: 0;
         bottom: 0;
         background-color: $overlay-background;
-        opacity: $overlay-opacity;
+        opacity: 0.0; 
     }
 
     // Set color for all headings
@@ -32,7 +31,7 @@ header.masthead {
     .page-heading,
     .post-heading,
     .site-heading {
-        color: $black;
+        color: $white;
     }
 
     // Styling shared by site and page heading
@@ -42,48 +41,11 @@ header.masthead {
         text-align: center;
 
         h1 {
-            font-size: 3rem;
+            font-size: 2em;
         }
 
         .subheading {
-            font-size: 1.5rem;
-            font-weight: 300;
-            line-height: 1.1;
             display: block;
-            margin-top: 0.625rem;
-            font-family: $headings-font-family;
-        }
-    }
-
-    // Styling specific to post headings
-
-    .post-heading {
-        h1 {
-            font-size: 2.25rem;
-        }
-
-        .meta,
-        .subheading {
-            line-height: 1.1;
-            display: block;
-        }
-
-        .subheading {
-            font-size: 1.5rem;
-            font-weight: 600;
-            margin: 0.75rem 0 2rem;
-            font-family: $headings-font-family;
-        }
-
-        .meta {
-            font-size: 1.25rem;
-            font-weight: 300;
-            font-style: italic;
-            font-family: $font-family-base;
-
-            a {
-                color: $white;
-            }
         }
     }
 
@@ -91,23 +53,14 @@ header.masthead {
 
     @include media-breakpoint-up(lg) {
         padding-top: 25rem;
-        padding-bottom: 25rem;
+        padding-bottom: 30rem;
 
-        .page-heading,
         .site-heading {
             h1 {
-                font-size: 5rem;
+                font-size: 4em;
             }
         }
 
-        .post-heading {
-            h1 {
-                font-size: 3.5rem;
-            }
 
-            .subheading {
-                font-size: 1.875rem;
-            }
-        }
     }
 }
