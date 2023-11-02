@@ -52,7 +52,7 @@ header.masthead {
     // Desktop styling for headings
 
     @include media-breakpoint-up(lg) {
-        padding-top: 18rem;
+        padding-top: 18em;
         padding-bottom: 35em;
 
         .site-heading {
