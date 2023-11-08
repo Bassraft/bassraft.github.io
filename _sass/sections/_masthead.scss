@@ -5,8 +5,8 @@
 header.masthead {
     position: relative;
     margin-bottom: 0rem;
-    padding-top: calc(8rem + 57px);
-    padding-bottom: 15rem;
+    padding-top: calc(4rem + 57px);
+    padding-bottom: 0rem;
 
     // TIP: Background images are set within the HTML using inline CSS!
     background: no-repeat center;
@@ -52,8 +52,9 @@ header.masthead {
     // Desktop styling for headings
 
     @include media-breakpoint-up(lg) {
-        padding-top: 18em;
-        padding-bottom: 35em;
+        padding-top: 5em;
+        padding-bottom: 30em;
+        background-size: 100%;
 
         .site-heading {
             h1 {
