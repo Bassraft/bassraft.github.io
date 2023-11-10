@@ -35,6 +35,18 @@ img.bassraft-logo {
   @extend .p-3;
 }
 
+img.mugshot {
+  border-radius: 50%;
+  max-width: 10em;
+  height: auto;
+}
+
+img.usa {
+  border-radius: 50%;
+  max-width: 2em;
+  height: auto;
+}
+
 // Desktop styling
 
 
@@ -43,6 +55,10 @@ img.bassraft-logo {
   img.bassraft-logo {
     height: auto;
     width: 15em;
+  }
+
+  img.mugshot {
+    max-width: 15em;
   }
 
   .navbar-nav {
