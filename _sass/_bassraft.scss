@@ -8,6 +8,10 @@
   background: red;
 }
 
+.yellow {
+  background-color: yellow;
+}
+
 img.bassraft-logo {
   height: auto;
   width: 8em;
@@ -50,6 +54,22 @@ img.usa {
   border-radius: 50%;
   max-width: 2em;
   height: auto;
+}
+
+.gallery {
+  @extend .p-3;
+  text-align: center;
+
+  img {
+    border-radius: 5px;
+    width: 30em;
+    height: auto;
+  }
+
+}
+
+.product-section {
+  color: black;
 }
 
 // Desktop styling
