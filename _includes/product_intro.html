@@ -1,26 +1,70 @@
-<section class="page-section section-light product-section">
+<section class="page-section section-white product-section">
   <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm">
-          <p>
+    <div class="row gx-6">
 
-            We are moving out of prototype and into production this Spring.
-
-            Get on the waiting list
-
-          </p>
-      </div>
-      <div class="col-sm">
-        <p>Features:
-          <br/>✓  3 x 6 foot platform for unparallelled standability
-          <br/>✓  5 1/2 x 8 foot base for never fall out stability
-          <br/>✓ Aerospace composite construction making it both light and strong
-          <br/>✓ Ultra portable, around 50 lbs
-          <br/>✓ The floats fold in for transport and storage
-          <br/>✓ Huge storage capacity in each float for rods, tackle, batteries, etc
-          <br/>✓ Trolling motor mount is built in. Transom mount or quick release bracket.
+      <div class="col-sm fs-5">
+        <p class="p-3">
+          <span class="fs-2">Features:</span>
+          <br/><span class="checkmark">✓</span> 3 x 6 ft platform for unparallelled stand-ability
+          <br/><span class="checkmark">✓</span> 5 1/2 x 8 ft float base for stability
+          <br/><span class="checkmark">✓</span> Aerospace composites making it both light and strong
+          <br/><span class="checkmark">✓</span> Ultra-portable, around 50 lbs
+          <br/><span class="checkmark">✓</span> Floats fold in for easy transport and storage
+          <br/><span class="checkmark">✓</span> Huge storage capacity in each float for rods, tackle, batteries, etc
+          <br/><span class="checkmark">✓</span> Built in trolling motor mount
         </p>
       </div>
+
+      <div class="col-sm waiting-list text-center">
+          <p>
+            Production will be ramping up soon.
+          </p>
+          <p>
+            <form id="waitingListForm"
+              action="https://formspree.io/f/moqozbyo" method="POST">
+                <input name="replyto" class="form-control" id="email" type="text" placeholder="Your Email" required="required">
+                <p class="help-block text-danger"></p>
+                <p id="waitingListFormStatus"></p>
+                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Get on the waiting list</button>
+            </form>
+          </p>
+      </div>
+
     </div>
   </div>
 </section>
+
+
+
+<script>
+  var form = document.getElementById("waitingListForm");
+
+  async function handleSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("waitingListFormStatus");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: form.method,
+      body: data,
+      headers: {
+          'Accept': 'application/json'
+      }
+    }).then(response => {
+      if (response.ok) {
+        status.innerHTML = "Oh yeah! We'll let you know when your number comes up.";
+        form.reset()
+      } else {
+        response.json().then(data => {
+          if (Object.hasOwn(data, 'errors')) {
+            status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+          } else {
+            status.innerHTML = "Oops! Something went wrong. Try just emailing waitlist@bassraft.com"
+          }
+        })
+      }
+    }).catch(error => {
+        status.innerHTML = "Oops! Something went wrong. Try just emailing waitlist@bassraft.com"
+    });
+  }
+  form.addEventListener("submit", handleSubmit)
+</script>

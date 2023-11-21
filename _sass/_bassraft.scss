@@ -72,10 +72,28 @@ img.usa {
   color: black;
 }
 
+.waiting-list {
+  margin: 0em;
+  background-color: $gray-900;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.checkmark {
+  color: $primary;
+  font-weight: bold;
+  @extend .fs-3;
+}
+
 // Desktop styling
 
 
 @include media-breakpoint-up(lg) {
+
+  .waiting-list {
+    margin: 5em;
+  }
 
   img.bassraft-logo {
     height: auto;
