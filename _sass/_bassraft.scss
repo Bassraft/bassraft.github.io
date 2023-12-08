@@ -1,4 +1,9 @@
 
+.video {
+  width: 18em;
+  height: 10em;
+}
+
 .signature {
   font-size: 1.5em;
   font-weight: bold;
@@ -90,6 +95,11 @@ img.usa {
 
 
 @include media-breakpoint-up(lg) {
+
+  .video {
+    width: 1120px;
+    height: 630px;
+  }
 
   .waiting-list {
     margin: 5em;
