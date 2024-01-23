@@ -1,41 +1,31 @@
-<section class="page-section section-white product-section">
-  <div class="container-fluid">
-    <div class="row gx-6">
+<div class="col-sm fs-5">
+  <p class="p-3">
+    <span class="fs-2">Features:</span>
+    <br/><span class="checkmark">✓</span> 3 x 6 ft platform for unparallelled stand-ability
+    <br/><span class="checkmark">✓</span> 5 1/2 x 8 ft float base for stability
+    <br/><span class="checkmark">✓</span> Aerospace composites making it both light and strong
+    <br/><span class="checkmark">✓</span> Ultra-portable, around 50 lbs
+    <br/><span class="checkmark">✓</span> Floats fold in for easy transport and storage
+    <br/><span class="checkmark">✓</span> Huge storage capacity in each float for rods, tackle, batteries, etc
+    <br/><span class="checkmark">✓</span> 525 lb. capacity
+    <br/><span class="checkmark">✓</span> Built in trolling motor mount
+  </p>
+</div>
 
-      <div class="col-sm fs-5">
-        <p class="p-3">
-          <span class="fs-2">Features:</span>
-          <br/><span class="checkmark">✓</span> 3 x 6 ft platform for unparallelled stand-ability
-          <br/><span class="checkmark">✓</span> 5 1/2 x 8 ft float base for stability
-          <br/><span class="checkmark">✓</span> Aerospace composites making it both light and strong
-          <br/><span class="checkmark">✓</span> Ultra-portable, around 50 lbs
-          <br/><span class="checkmark">✓</span> Floats fold in for easy transport and storage
-          <br/><span class="checkmark">✓</span> Huge storage capacity in each float for rods, tackle, batteries, etc
-          <br/><span class="checkmark">✓</span> 525 lb. capacity
-          <br/><span class="checkmark">✓</span> Built in trolling motor mount
-        </p>
-      </div>
-
-      <div class="col-sm waiting-list text-center">
-          <p>
-            Get notified when Bass Raft is ready!
-          </p>
-          <p>
-            <form id="waitingListForm"
-              action="https://formspree.io/f/moqozbyo" method="POST">
-                <input name="replyto" class="form-control" id="email" type="text" placeholder="Your Email" required="required">
-                <p class="help-block text-danger"></p>
-                <p id="waitingListFormStatus"></p>
-                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Submit</button>
-            </form>
-          </p>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-
+<div class="col-sm waiting-list text-center">
+    <p>
+      Get notified when Bass Raft is ready!
+    </p>
+    <p>
+      <form id="waitingListForm"
+        action="https://formspree.io/f/moqozbyo" method="POST">
+          <input name="replyto" class="form-control" id="email" type="text" placeholder="Your Email" required="required">
+          <p class="help-block text-danger"></p>
+          <p id="waitingListFormStatus"></p>
+          <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Submit</button>
+      </form>
+    </p>
+</div>
 
 <script>
   var form = document.getElementById("waitingListForm");
@@ -52,7 +42,7 @@
       }
     }).then(response => {
       if (response.ok) {
-        status.innerHTML = "Oh yeah! We'll let you know when your number comes up.";
+        status.innerHTML = "You're all signed up!";
         form.reset()
       } else {
         response.json().then(data => {

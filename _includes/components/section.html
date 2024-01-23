@@ -1,0 +1,7 @@
+<section class="page-section section-{{ include.section_style || 'light' }}">
+  <div class="container-fluid">
+    <div class="row {{ include.row_style | '' }}">
+      {% include {{ include.name }}.html %}      
+    </div>
+  </div>
+</section>

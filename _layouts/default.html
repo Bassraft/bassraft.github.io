@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
   {% include head-custom.html %}
   <body>
       <!--{% include notice.html %}-->
       {% include navigation.html %}
       {% include page_header.html %}
-      {% include product_intro.html %}
-      {% include welcome_video.html %}
-      {% include gallery.html %}
+      {% include components/section.html name="product_intro" section_style="dark" %}
+      {% include components/section.html name="welcome_video" %}
+      {% include components/section.html name="gallery" section_style="dark" %}
       {% include footer.html %}
 
-      {% include bootstrap-js.html %}
+      {% include components/bootstrap-js.html %}
   </body>
 
 </html>

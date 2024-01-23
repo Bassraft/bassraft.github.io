@@ -4,9 +4,10 @@
   <body>
       {% include navigation.html %}
       {{ content }}
-      {% include contact.html %}
+      {% include components/section.html name="contact" section_style="light" %}
       {% include footer.html %}
-      {% include bootstrap-js.html %}
+      
+      {% include components/bootstrap-js.html %}
   </body>
 </html>
 
