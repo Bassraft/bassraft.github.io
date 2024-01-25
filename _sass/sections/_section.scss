@@ -1,5 +1,13 @@
 
 .page-section {
-  padding-top: 0rem;
-  padding-bottom: 3rem;
+    padding-bottom: 1em;
+    padding-top: 1em;
+
+    background: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+
+    @include media-breakpoint-up(lg) {
+    }
 }

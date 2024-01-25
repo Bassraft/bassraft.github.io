@@ -1,67 +1,25 @@
-// 
-// Masthead
-// 
-
-header.masthead {
-    position: relative;
+.masthead {
     margin-bottom: 0rem;
     padding-top: calc(4rem + 57px);
     padding-bottom: 0rem;
 
-    // TIP: Background images are set within the HTML using inline CSS!
     background: no-repeat center;
     background-position: top;
     background-size: cover;
 
-    // Create the overlay for the masthead
-    // Modify the overlay color and opacity in src/variables/overlay.scss
-    &:before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background-color: $overlay-background;
-        opacity: 0.0; 
+    h1 {
+        font-size: 2em;
     }
-
-    // Set color for all headings
-
-    .page-heading,
-    .post-heading,
-    .site-heading {
-        color: $white;
-    }
-
-    // Styling shared by site and page heading
-
-    .page-heading,
-    .site-heading {
-        text-align: center;
-
-        h1 {
-            font-size: 2em;
-        }
-
-        .subheading {
-            display: block;
-        }
-    }
-
-    // Desktop styling for headings
-
+    
     @include media-breakpoint-up(lg) {
         padding-top: 5em;
-        padding-bottom: 30em;
+        padding-bottom: 0em;
         background-size: 100%;
-
-        .site-heading {
-            h1 {
-                font-size: 4em;
-            }
+        min-height: 80vh;
+        
+        h1 {
+            font-size: 4em;
         }
-
 
     }
 }
