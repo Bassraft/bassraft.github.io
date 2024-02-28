@@ -38,8 +38,8 @@ img.bassraft-logo {
 }
 
 .btn-primary {
-  background-color: green;
-  border-color: green;
+  background-color: $primary;
+  border-color: $primary;
   border-radius: 10px;
 }
 
@@ -85,7 +85,7 @@ img.usa {
 }
 
 .checkmark {
-  color: $primary;
+  color: green;
   font-weight: bold;
   @extend .fs-3;
 }
