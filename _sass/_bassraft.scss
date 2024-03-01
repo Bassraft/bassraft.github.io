@@ -62,7 +62,7 @@ img.usa {
 }
 
 .gallery {
-  @extend .p-3;
+  @extend .p-4;
   text-align: center;
 
   img {
@@ -79,8 +79,6 @@ img.usa {
 
 .waiting-list {
   margin: 0em;
-  background-color: $gray-900;
-  color: white;
   font-weight: bold;
 }
 
