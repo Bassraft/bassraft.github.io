@@ -5,13 +5,11 @@
 // Global styling for the navbar
 
 #mainNav {
-    z-index: $zindex-fixed;
-    border-bottom: $border-width solid $border-color;
     background-color: $white;
     font-family: $headings-font-family;
 
     .navbar-brand {
-        font-size: 1.50em;
+        font-size: 1.25em;
         font-weight: $headings-font-weight;
     }
 
