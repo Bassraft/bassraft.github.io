@@ -22,10 +22,17 @@
     .navbar-nav {
         >li.nav-item {
             >a.nav-link {
-                font-size: 1.00em;
+                font-size: 0.75em;
                 font-weight: $headings-font-weight;
                 letter-spacing: 0.0625em;
             }
         }
     }
 }
+
+@include media-breakpoint-up(lg) {
+  #mainNav {
+    height: 2em;
+  }
+}
+
