@@ -35,12 +35,6 @@
   border-radius: 10px;
 }
 
-.catalog-tile {
-  @extend .col-sm;
-  @extend .text-center;
-  @extend .p-3;
-}
-
 img.mugshot {
   border-radius: 50%;
   max-width: 10em;
@@ -76,14 +70,18 @@ img.usa {
   @extend .fs-3;
 }
 
+.yellow {
+  background-color: yellow;
+}
+
 // Desktop styling
 
 
 @include media-breakpoint-up(lg) {
 
   .video {
-    width: 1120px;
-    height: 630px;
+    width: 40em;
+    height: 30em;
   }
 
   .waiting-list {
@@ -96,10 +94,6 @@ img.usa {
 
   .navbar-nav {
     text-align: top;
-  }
-
-  #catalog-carousel {
-     width: 50%;
   }
 
 }

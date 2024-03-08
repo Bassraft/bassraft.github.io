@@ -1,0 +1,12 @@
+- name: Silver camo
+  image: bassraft-silver-black-camo.jpg 
+- name: Blue camo
+  image: bassraft-blue-camo.jpg 
+- name: Green camo
+  image: bassraft-green-camo.jpg 
+- name: Tan camo
+  image: bassraft-tan-camo.jpg 
+- name: Yello camo
+  image: bassraft-yellow-camo.jpg 
+- name: Red camo
+  image: bassraft-red-camo.jpg 

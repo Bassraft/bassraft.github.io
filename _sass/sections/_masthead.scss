@@ -1,11 +1,8 @@
-.masthead {
+
+.top-section {
     margin-bottom: 0rem;
     padding-top: calc(1rem + 57px);
     padding-bottom: 0rem;
-
-    background: no-repeat;
-    background-position: top;
-    background-size: cover;
     color: $bass-raft-silver;
 
     h1 {
@@ -14,13 +11,11 @@
    
     h2 {
         font-size: 1.8em;
-    }
+    }      
 
-    //small
+    // small
     @include media-breakpoint-down(lg) {
-      background-image: url('/assets/images/sections/hero-bass-raft-behind-silver-black-camo-sm.jpg');
-      height: 70vh;
-
+      min-height: 70vh;
       h1 {
         font-size: 1.7em;
       }
@@ -32,8 +27,27 @@
 
     //large
     @include media-breakpoint-up(lg) {
+      min-height: 90vh;
+    }
+}
+
+
+
+.masthead {
+    @extend .top-section;
+
+    background: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+    //small
+    @include media-breakpoint-down(lg) {
+      background-image: url('/assets/images/sections/hero-bass-raft-behind-silver-black-camo-sm.jpg');
+    }
+
+    //large
+    @include media-breakpoint-up(lg) {
       background-image: url('/assets/images/sections/hero-bass-raft-sideways-silver-black-camo-lg.jpg');
-      height: 90vh;
     }
 
 }

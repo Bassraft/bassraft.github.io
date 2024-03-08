@@ -1,0 +1,40 @@
+
+.color-choice-tile {
+  background-position: top;
+  background: no-repeat;
+  background-size: contain;
+  text-align: left;
+  @extend .rounded-2;
+
+    // smaller than large
+    @include media-breakpoint-down(lg) {
+      font-size: 0.5em;
+      height: 100px;
+    }
+
+    //large and bigger
+    @include media-breakpoint-up(lg) {
+      font-size: 0.7em;
+      height: 200px;
+    }
+}
+
+.catalog-tile {
+  background: no-repeat;
+  background-position: top;
+  background-size: cover;
+  text-align: left;
+
+    // smaller than large
+    @include media-breakpoint-down(lg) {
+      height: 70vh;
+    }
+
+    // large and bigger
+    @include media-breakpoint-up(lg) {
+      height: 90vh;
+      background-image: url('/assets/images/catalog/bassraft-original-full-rear-lg.jpg');
+    }
+
+}
+
