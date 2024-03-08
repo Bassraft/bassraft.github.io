@@ -28,6 +28,12 @@
             }
         }
     }
+
+    img.bassraft-logo {
+      height: auto;
+      width: 8em;
+    }
+    
 }
 
 @include media-breakpoint-up(lg) {
