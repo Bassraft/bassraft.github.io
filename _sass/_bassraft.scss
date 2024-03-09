@@ -1,5 +1,5 @@
 
-.video {
+.section-video {
   width: 18em;
   height: 10em;
 }
@@ -79,9 +79,9 @@ img.usa {
 
 @include media-breakpoint-up(lg) {
 
-  .video {
-    width: 40em;
-    height: 30em;
+  .section-video {
+    width: 1120px;
+    height: 630px;
   }
 
   .waiting-list {
