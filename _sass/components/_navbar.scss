@@ -5,7 +5,7 @@
 // Global styling for the navbar
 
 #mainNav {
-    background-color: $white;
+    background-color: $bass-raft-silver;
     font-family: $headings-font-family;
 
     .navbar-brand {
@@ -33,17 +33,16 @@
       height: auto;
       width: 8em;
     }
+
+    @include media-breakpoint-up(lg) {
+        height: 3em;
+
+        img.bassraft-logo {
+          width: 12em;
+        }
+    }
     
 }
 
-@include media-breakpoint-up(lg) {
-  #mainNav {
-    height: 3em;
 
-    img.bassraft-logo {
-      width: 12em;
-    }
-
-  }
-}
 
