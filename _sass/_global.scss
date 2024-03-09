@@ -3,8 +3,9 @@
 // 
 
 // Increase base font styling in the body only
-
-body {
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
     font-size: $font-size-lg;
 }
 
