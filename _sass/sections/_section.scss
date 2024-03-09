@@ -1,17 +1,6 @@
 
-.page-section {
-    padding-bottom: 1em;
-    padding-top: 1em;
-
-    background: no-repeat;
-    background-position: top;
-    background-size: cover;
-
-    min-height: 30vh;
-
-    @include media-breakpoint-up(lg) {
-      min-height: 50vh;
-      background-size: 100%;
-      padding-top: 1em;
-    }
+section {
+  @extend .row;
+  padding-bottom: 1em;
+  padding-top: 1em;
 }

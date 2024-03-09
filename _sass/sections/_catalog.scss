@@ -33,9 +33,14 @@
     @include media-breakpoint-down(lg) {
       height: 70vh;
       text-align: center;
+
+      img {
+        width: auto;
+        height: 40vh;
+      }
     }
 
-    // large and bigger
+    // large and larger
     @include media-breakpoint-up(lg) {
       text-align: left;
       height: 90vh;
@@ -43,6 +48,13 @@
       background-position: top;
       background-size: cover;
       background-image: url('/assets/images/catalog/bassraft-original-full-rear-lg.jpg');
+    }
+
+    // extra small
+    @include media-breakpoint-down(sm) { 
+      img {
+        height: 35vh;
+      }
     }
 
 }

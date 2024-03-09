@@ -2,20 +2,19 @@
 // Global theme styling
 // 
 
-// Increase base font styling in the body only
 html, body {
-    max-width: 100%;
     overflow-x: hidden;
+    background-color: black;
 }
 
-// Set horizontal rule color to border color
+.top-container {
+    max-width: 1800px;
+}
 
 hr {
     border-color: $border-color;
     opacity: 1;
 }
-
-// Set defaults for the paragraph element
 
 p {
     margin: 2rem 0;
@@ -24,4 +23,13 @@ p {
 blockquote {
     font-style: italic;
     color: $gray-600;
+}
+
+.hide-small {
+  @extend .d-none;
+  @extend .d-lg-block;
+}
+
+.hide-large {
+  @extend .d-lg-none;
 }

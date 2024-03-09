@@ -1,10 +1,3 @@
-<section class="{{ include.css | default: 'page-section' }} {% if include.section_style %} section-{% endif %}{{ include.section_style | default: 'section-light' }}"
-         {% if include.image %}
-            style="background-image: url('assets/images/sections/{{ include.image }}.jpg')">
-         {% endif %}
-  <div class="container-fluid">
-    <div class="row {{ include.row_style | default: '' }}">
-      {% include {{ include.name }}.html %}      
-    </div>
-  </div>
+<section class="{% if include.section_style %}section-{% endif %}{{ include.section_style | default: 'section-light' }}">
+    {% include {{ include.name }}.html %}      
 </section>
