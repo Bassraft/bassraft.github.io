@@ -4,35 +4,29 @@
     padding-top: calc(1rem + 57px);
     padding-bottom: 0rem;
     color: $bass-raft-silver;
-    font-size: .7em;
 
     h1 {
-        font-size: 2.1em;
+        font-size: 3.9em;
     }
     h2 {
-        font-size: 1.8em;
-    }      
-    h3 {
-        font-size: 1.0em;
+        font-size: 2.0em;
     }      
 
     // small
     @include media-breakpoint-down(lg) {
       min-height: 70vh;
       h1 {
-        font-size: 1.5em;
-      }
-      h2 {
-          font-size: 1.2em;
-      }
-      h3 {
-          font-size: 0.7em;
+          font-size: 2.0em;
       }
     }
 
     //large
     @include media-breakpoint-up(lg) {
       min-height: 90vh;
+    }
+
+    a {
+      @extend .fs-4;
     }
 }
 

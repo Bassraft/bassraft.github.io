@@ -1,11 +1,12 @@
 
 .specs {
-    font-size: 0.6em;
+    font-size: 1.0em;
 }
 
 .small-notice {
-    font-size: 0.7em;
+    font-size: 0.8em;
 }
+
 .color-choice-tile {
   background-position: top;
   background: no-repeat;
@@ -15,13 +16,13 @@
 
     // smaller than large
     @include media-breakpoint-down(lg) {
-      font-size: 0.5em;
+      font-size: 0.9em;
       height: 100px;
     }
 
     //large and bigger
     @include media-breakpoint-up(lg) {
-      font-size: 0.7em;
+      font-size: 1.7em;
       height: 200px;
     }
 }
@@ -35,6 +36,7 @@
     // smaller than large
     @include media-breakpoint-down(lg) {
       height: 70vh;
+      text-align: center;
     }
 
     // large and bigger
