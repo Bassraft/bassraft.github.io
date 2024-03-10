@@ -17,12 +17,7 @@ hr {
 }
 
 p {
-    margin: 2rem 0;
-    font-size: 1.2em;
-
-    @include media-breakpoint-up(lg) {
-      font-size: 1.8em;
-    }
+  margin: 2rem 0;
 }
 
 blockquote {

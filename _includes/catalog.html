@@ -43,39 +43,25 @@
       <div>Current lead time - 3 weeks</div>
     </div>
 </section>
-
-<!--<section class="text-center section-light">-->
-  <!--<div class="container mb-5 text-center">-->
-    <!--<div class="row">-->
-      <!--<div class="col">-->
-        <!--<p>Color Options</p>-->
-      <!--</div>-->
-    <!--</div>-->
-    <!--<div class="row mb-2">-->
-        <!--<div class="col color-choice-tile" style="background-image: url('assets/images/materials/bassraft-silver-black-camo.jpg')">-->
-          <!--<span>Silver camo</span>-->
-        <!--</div>-->
-        <!--<div class="col color-choice-tile" style="background-image: url('assets/images/materials/bassraft-blue-camo.jpg')">-->
-          <!--<span>Blue camo</span>-->
-        <!--</div>-->
-        <!--<div class="col color-choice-tile" style="background-image: url('assets/images/materials/bassraft-green-camo.jpg')">-->
-          <!--<span>Green camo</span>-->
-        <!--</div>-->
-    <!--</div>-->
-    <!--<div class="row">-->
-        <!--<div class="col color-choice-tile" style="background-image: url('assets/images/materials/bassraft-tan-camo.jpg')">-->
-          <!--<span>Tan camo</span>-->
-        <!--</div>-->
-        <!--<div class="col color-choice-tile" style="background-image: url('assets/images/materials/bassraft-yellow-camo.jpg')">-->
-          <!--<span>Yello camo</span>-->
-        <!--</div>-->
-        <!--<div class="col color-choice-tile" style="background-image: url('assets/images/materials/bassraft-red-camo.jpg')">-->
-          <!--<span>Red camo</span>-->
-        <!--</div>-->
-    <!--</div>-->
-  <!--</div>-->
-<!--</section>-->
-
+<section class="section-dark">
+  <div id="carouselExample" class="carousel slide col-6">
+    <div class="carousel-inner">
+      {% for m in site.data.materials %}
+        <div class="carousel-item {% if m.name == 'Silver camo' %}active{% endif %}">
+          <img src="/assets/images/materials/{{ m.image }}" alt="{{ m.name }}">
+        </div>
+      {% endfor %}
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</section>
 
 <!--<section class="text-center section-light">-->
   <!--<div class="container mb-5 text-center">-->
