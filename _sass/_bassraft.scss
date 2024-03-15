@@ -47,18 +47,6 @@ img.usa {
   height: auto;
 }
 
-.gallery {
-  @extend .p-4;
-  text-align: center;
-
-  img {
-    border-radius: 5px;
-    width: 30em;
-    height: auto;
-  }
-
-}
-
 .waiting-list {
   margin: 0em;
   font-weight: bold;
@@ -76,6 +64,10 @@ img.usa {
 
 .blue {
   background-color: blue;
+}
+
+.gallery-item {
+  filter: invert(100%);  
 }
 
 // Desktop styling
@@ -101,5 +93,4 @@ img.usa {
   }
 
 }
-
 
