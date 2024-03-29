@@ -1,3 +1,14 @@
+
+  <script src="https://www.google.com/recaptcha/api.js?render={your-site-key}"></script>
+  <script>
+      grecaptcha.ready(function () {
+          grecaptcha.execute('6Lfr-agpAAAAAAfwGOtDvgX6cI0woP5J9VPMui7C', {action: 'submit'}).then(function (token) {
+              console.info("got token: " + token);
+              document.getElementById('g-recaptcha-response').value = token;
+          });
+      });
+  </script>
+
   <div class="col-sm fs-5">
     <p class="ps-lg-5">
       <span class="fs-2">Features:</span>
@@ -20,6 +31,7 @@
         <form id="waitingListForm"
           action="https://formspree.io/f/myyrnppn" method="POST">
             <input name="replyto" class="form-control" id="email" type="text" placeholder="Your Email" required="required">
+            <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
             <p class="help-block text-danger"></p>
             <p id="waitingListFormStatus"></p>
             <button id="sendMessageButton" class="btn btn-xl btn-primary text-uppercase" type="submit">Sign Up</button>
