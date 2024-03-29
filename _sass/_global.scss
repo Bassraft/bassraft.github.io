@@ -33,3 +33,8 @@ blockquote {
 .hide-large {
   @extend .d-lg-none;
 }
+
+// Hide the dumb recaptha badge
+.grecaptcha-badge { 
+    visibility: hidden !important;
+}
