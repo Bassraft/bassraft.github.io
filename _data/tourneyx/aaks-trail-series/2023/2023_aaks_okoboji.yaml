@@ -1,0 +1,827 @@
+---
+title: 2023 AAKS - Okoboji
+dates: May 19th 06:00 am - May 20th 04:00 pm 2023, Central • Multi-Day Tournament
+link: https://tourneyx.com/leaderboard/standings/2023-aaks-okoboji
+results:
+- angler: Jordan Westerman
+  inches: 190.25
+  lbs: 39.68000000000001
+  fish:
+  - inches: 19.75
+    weight: 4.5
+  - inches: 18.75
+    weight: 3.76
+  - inches: 18.25
+    weight: 3.42
+  - inches: 18.25
+    weight: 3.42
+  - inches: 18.25
+    weight: 3.42
+  - inches: 19.75
+    weight: 4.5
+  - inches: 19.5
+    weight: 4.31
+  - inches: 19.5
+    weight: 4.31
+  - inches: 19.25
+    weight: 4.12
+  - inches: 19.0
+    weight: 3.93
+  inches_rank: 1
+  lbs_rank: 1
+- angler: Josh Swigart
+  inches: 185.25
+  lbs: 36.56
+  fish:
+  - inches: 21.0
+    weight: 5.58
+  - inches: 19.75
+    weight: 4.5
+  - inches: 18.75
+    weight: 3.76
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.25
+    weight: 3.42
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.0
+    weight: 2.67
+  inches_rank: 2
+  lbs_rank: 2
+- angler: Dustin Cooksley
+  inches: 181.0
+  lbs: 33.519999999999996
+  fish:
+  - inches: 20.25
+    weight: 4.92
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 18.75
+    weight: 3.76
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.75
+    weight: 3.1
+  inches_rank: 3
+  lbs_rank: 3
+- angler: TYLER COLE
+  inches: 180.0
+  lbs: 32.980000000000004
+  fish:
+  - inches: 20.25
+    weight: 4.92
+  - inches: 19.0
+    weight: 3.93
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.0
+    weight: 2.67
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.0
+    weight: 2.67
+  inches_rank: 4
+  lbs_rank: 5
+- angler: Elvis Lee
+  inches: 179.75
+  lbs: 33.04
+  fish:
+  - inches: 18.5
+    weight: 3.58
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.5
+    weight: 2.4
+  - inches: 20.5
+    weight: 5.13
+  - inches: 19.5
+    weight: 4.31
+  - inches: 18.5
+    weight: 3.58
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  inches_rank: 5
+  lbs_rank: 4
+- angler: Casey Day
+  inches: 179.25
+  lbs: 32.84
+  fish:
+  - inches: 21.0
+    weight: 5.58
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.5
+    weight: 2.4
+  - inches: 19.25
+    weight: 4.12
+  - inches: 18.5
+    weight: 3.58
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.75
+    weight: 3.1
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 6
+  lbs_rank: 6
+- angler: Jeremy Brandes
+  inches: 178.75
+  lbs: 32.28
+  fish:
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.0
+    weight: 2.67
+  - inches: 20.0
+    weight: 4.71
+  - inches: 18.75
+    weight: 3.76
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.25
+    weight: 2.81
+  - inches: 15.75
+    weight: 2.04
+  inches_rank: 7
+  lbs_rank: 7
+- angler: Joey Vanyo
+  inches: 178.0
+  lbs: 31.8
+  fish:
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  - inches: 19.25
+    weight: 4.12
+  - inches: 19.25
+    weight: 4.12
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.0
+    weight: 3.26
+  inches_rank: 8
+  lbs_rank: 8
+- angler: Joshua Gauger
+  inches: 177.5
+  lbs: 31.37
+  fish:
+  - inches: 19.25
+    weight: 4.12
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.75
+    weight: 3.1
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.0
+    weight: 3.26
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  inches_rank: 9
+  lbs_rank: 9
+- angler: Kyle Michel
+  inches: 176.5
+  lbs: 30.59
+  fish:
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.5
+    weight: 2.95
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.5
+    weight: 2.4
+  - inches: 18.75
+    weight: 3.76
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.25
+    weight: 2.81
+  inches_rank: 10
+  lbs_rank: 10
+- angler: Gary Stephens
+  inches: 176.5
+  lbs: 30.509999999999998
+  fish:
+  - inches: 18.25
+    weight: 3.42
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.5
+    weight: 2.95
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 11
+  lbs_rank: 11
+- angler: Kevin Swan
+  inches: 172.75
+  lbs: 28.22
+  fish:
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 12
+  lbs_rank: 15
+- angler: Zach Gibbons
+  inches: 172.5
+  lbs: 28.27
+  fish:
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.75
+    weight: 2.53
+  - inches: 19.25
+    weight: 4.12
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 13
+  lbs_rank: 14
+- angler: Corey Scherrman
+  inches: 172.25
+  lbs: 28.46
+  fish:
+  - inches: 19.5
+    weight: 4.31
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.0
+    weight: 2.16
+  - inches: 15.75
+    weight: 2.04
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.5
+    weight: 3.58
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 14
+  lbs_rank: 13
+- angler: Raul Segovia
+  inches: 172.25
+  lbs: 28.47
+  fish:
+  - inches: 18.5
+    weight: 3.58
+  - inches: 17.75
+    weight: 3.1
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  - inches: 16.0
+    weight: 2.16
+  - inches: 19.25
+    weight: 4.12
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 16.0
+    weight: 2.16
+  - inches: 16.0
+    weight: 2.16
+  inches_rank: 15
+  lbs_rank: 12
+- angler: Pat Lassek
+  inches: 171.5
+  lbs: 27.67
+  fish:
+  - inches: 18.5
+    weight: 3.58
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.5
+    weight: 2.95
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.25
+    weight: 2.28
+  - inches: 16.25
+    weight: 2.28
+  inches_rank: 16
+  lbs_rank: 17
+- angler: Hayden Hall
+  inches: 170.75
+  lbs: 27.29
+  fish:
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.0
+    weight: 2.16
+  - inches: 16.0
+    weight: 2.16
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 17
+  lbs_rank: 18
+- angler: Mike DeBruin
+  inches: 170.25
+  lbs: 27.07
+  fish:
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.5
+    weight: 2.4
+  - inches: 18.75
+    weight: 3.76
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  - inches: 16.25
+    weight: 2.28
+  inches_rank: 18
+  lbs_rank: 20
+- angler: Mitchell Atneosen
+  inches: 170.25
+  lbs: 27.200000000000003
+  fish:
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  - inches: 19.75
+    weight: 4.5
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.0
+    weight: 2.16
+  inches_rank: 19
+  lbs_rank: 19
+- angler: Phuoc Huynh
+  inches: 168.5
+  lbs: 26.34
+  fish:
+  - inches: 18.25
+    weight: 3.42
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.0
+    weight: 2.16
+  - inches: 15.5
+    weight: 1.93
+  - inches: 15.0
+    weight: 1.72
+  - inches: 18.75
+    weight: 3.76
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 20
+  lbs_rank: 21
+- angler: Dan Ebneter
+  inches: 168.25
+  lbs: 26.03
+  fish:
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.5
+    weight: 2.95
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.0
+    weight: 2.16
+  - inches: 15.75
+    weight: 2.04
+  - inches: 18.75
+    weight: 3.76
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.5
+    weight: 2.4
+  - inches: 15.75
+    weight: 2.04
+  inches_rank: 21
+  lbs_rank: 22
+- angler: Tim Gurley
+  inches: 167.0
+  lbs: 25.439999999999998
+  fish:
+  - inches: 17.5
+    weight: 2.95
+  - inches: 16.25
+    weight: 2.28
+  - inches: 15.75
+    weight: 2.04
+  - inches: 15.5
+    weight: 1.93
+  - inches: 15.25
+    weight: 1.82
+  - inches: 18.75
+    weight: 3.76
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.75
+    weight: 2.53
+  inches_rank: 22
+  lbs_rank: 23
+- angler: Andy Moore
+  inches: 165.5
+  lbs: 24.54
+  fish:
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  - inches: 16.0
+    weight: 2.16
+  - inches: 15.5
+    weight: 1.93
+  - inches: 15.0
+    weight: 1.72
+  inches_rank: 23
+  lbs_rank: 24
+- angler: Lor Vue
+  inches: 158.75
+  lbs: 27.91
+  fish:
+  - inches: 18.75
+    weight: 3.76
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.75
+    weight: 3.1
+  - inches: 16.75
+    weight: 2.53
+  - inches: 20.0
+    weight: 4.71
+  - inches: 17.5
+    weight: 2.95
+  - inches: 16.75
+    weight: 2.53
+  - inches: 15.25
+    weight: 1.82
+  inches_rank: 24
+  lbs_rank: 16
+- angler: John Denton
+  inches: 151.0
+  lbs: 23.46
+  fish:
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  - inches: 19.75
+    weight: 4.5
+  - inches: 17.0
+    weight: 2.67
+  - inches: 15.5
+    weight: 1.93
+  - inches: 15.25
+    weight: 1.82
+  inches_rank: 25
+  lbs_rank: 26
+- angler: Matthew Barnes
+  inches: 140.75
+  lbs: 24.400000000000002
+  fish:
+  - inches: 20.0
+    weight: 4.71
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.5
+    weight: 2.95
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.0
+    weight: 2.67
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.5
+    weight: 2.4
+  inches_rank: 26
+  lbs_rank: 25
+- angler: BF
+  inches: 135.75
+  lbs: 21.58
+  fish:
+  - inches: 19.5
+    weight: 4.31
+  - inches: 17.25
+    weight: 2.81
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.0
+    weight: 2.16
+  - inches: 17.0
+    weight: 2.67
+  - inches: 16.25
+    weight: 2.28
+  - inches: 16.0
+    weight: 2.16
+  inches_rank: 27
+  lbs_rank: 27
+- angler: Bob Bahler
+  inches: 118.75
+  lbs: 18.83
+  fish:
+  - inches: 18.25
+    weight: 3.42
+  - inches: 17.25
+    weight: 2.81
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.5
+    weight: 2.95
+  - inches: 16.75
+    weight: 2.53
+  - inches: 16.0
+    weight: 2.16
+  - inches: 15.0
+    weight: 1.72
+  inches_rank: 28
+  lbs_rank: 28
+- angler: Kyle Murray
+  inches: 104.0
+  lbs: 17.22
+  fish:
+  - inches: 18.0
+    weight: 3.26
+  - inches: 16.5
+    weight: 2.4
+  - inches: 18.0
+    weight: 3.26
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.25
+    weight: 2.81
+  - inches: 16.5
+    weight: 2.4
+  inches_rank: 29
+  lbs_rank: 29
+- angler: Mason Good
+  inches: 79.5
+  lbs: 10.77
+  fish:
+  - inches: 18.0
+    weight: 3.26
+  - inches: 15.75
+    weight: 2.04
+  - inches: 15.5
+    weight: 1.93
+  - inches: 15.25
+    weight: 1.82
+  - inches: 15.0
+    weight: 1.72
+  inches_rank: 30
+  lbs_rank: 30
+- angler: RW
+  inches: 53.75
+  lbs: 10.29
+  fish:
+  - inches: 21.0
+    weight: 5.58
+  - inches: 15.75
+    weight: 2.04
+  - inches: 17.0
+    weight: 2.67
+  inches_rank: 31
+  lbs_rank: 31
+- angler: Fredrick Peel
+  inches: 50.25
+  lbs: 7.77
+  fish:
+  - inches: 17.75
+    weight: 3.1
+  - inches: 17.5
+    weight: 2.95
+  - inches: 15.0
+    weight: 1.72
+  inches_rank: 32
+  lbs_rank: 32
+- angler: Kyle Brenner
+  inches: 47.75
+  lbs: 6.4
+  fish:
+  - inches: 16.5
+    weight: 2.4
+  - inches: 16.25
+    weight: 2.28
+  - inches: 15.0
+    weight: 1.72
+  inches_rank: 33
+  lbs_rank: 34
+- angler: SG
+  inches: 47.75
+  lbs: 6.45
+  fish:
+  - inches: 17.25
+    weight: 2.81
+  - inches: 15.5
+    weight: 1.93
+  - inches: 15.0
+    weight: 1.72
+  inches_rank: 34
+  lbs_rank: 33
+- angler: Daniel Nordin
+  inches: 46.0
+  lbs: 5.6
+  fish:
+  - inches: 16.0
+    weight: 2.16
+  - inches: 15.0
+    weight: 1.72
+  - inches: 15.0
+    weight: 1.72
+  inches_rank: 35
+  lbs_rank: 36
+- angler: Gene Campbell
+  inches: 34.5
+  lbs: 5.66
+  fish:
+  - inches: 18.0
+    weight: 3.26
+  - inches: 16.5
+    weight: 2.4
+  inches_rank: 36
+  lbs_rank: 35
+- angler: CM
+  inches: 15.5
+  lbs: 1.93
+  fish:
+  - inches: 15.5
+    weight: 1.93
+  inches_rank: 37
+  lbs_rank: 37
