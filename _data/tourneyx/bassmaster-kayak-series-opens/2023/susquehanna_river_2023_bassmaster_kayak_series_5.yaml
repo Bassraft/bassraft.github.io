@@ -1693,7 +1693,7 @@ results:
     weight: 1.62
   inches_rank: 65
   lbs_rank: 70
-- angler: RS
+- angler: Robert Schuster
   inches: 158.75
   lbs: 22.270000000000003
   fish:
@@ -2131,7 +2131,7 @@ results:
     weight: 1.19
   inches_rank: 82
   lbs_rank: 93
-- angler: TS
+- angler: Toby Simko
   inches: 142.75
   lbs: 14.8
   fish:
@@ -2585,7 +2585,7 @@ results:
     weight: 1.11
   inches_rank: 103
   lbs_rank: 112
-- angler: JK
+- angler: Joe Kugle
   inches: 97.75
   lbs: 9.59
   fish:
@@ -3089,7 +3089,7 @@ results:
     weight: 0.91
   inches_rank: 140
   lbs_rank: 138
-- angler: WW
+- angler: William Weyman
   inches: 0
   lbs: 0
   fish: []

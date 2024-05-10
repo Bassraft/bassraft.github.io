@@ -995,7 +995,7 @@ results:
     weight: 0.85
   inches_rank: 62
   lbs_rank: 63
-- angler: JD
+- angler: Jordan Deutz
   inches: 69.25
   lbs: 6.6
   fish:
@@ -1011,7 +1011,7 @@ results:
     weight: 1.04
   inches_rank: 63
   lbs_rank: 69
-- angler: MC
+- angler: Matthew Cavanaugh
   inches: 69.0
   lbs: 6.46
   fish:
@@ -1459,7 +1459,7 @@ results:
     weight: 0.85
   inches_rank: 99
   lbs_rank: 99
-- angler: AL
+- angler: Anthony Larson
   inches: 26.0
   lbs: 2.14
   fish:
@@ -1479,7 +1479,7 @@ results:
     weight: 0.91
   inches_rank: 101
   lbs_rank: 101
-- angler: GC
+- angler: Glenda Celestino
   inches: 15.25
   lbs: 1.82
   fish:
@@ -1573,7 +1573,7 @@ results:
   fish: []
   inches_rank: 114
   lbs_rank: 114
-- angler: RN
+- angler: Rui Norte
   inches: 0
   lbs: 0
   fish: []

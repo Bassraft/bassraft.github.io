@@ -387,7 +387,7 @@ results:
     weight: 1.53
   inches_rank: 24
   lbs_rank: 24
-- angler: TB
+- angler: Thomas Benavidez
   inches: 81.5
   lbs: 11.92
   fish:
@@ -1567,7 +1567,7 @@ results:
     weight: 1.93
   inches_rank: 118
   lbs_rank: 118
-- angler: RS
+- angler: Robert Schuster
   inches: 15.25
   lbs: 1.82
   fish:
@@ -1631,7 +1631,7 @@ results:
     weight: 1.53
   inches_rank: 126
   lbs_rank: 126
-- angler: CF
+- angler: Collin Faile
   inches: 14.25
   lbs: 1.44
   fish:
@@ -1809,7 +1809,7 @@ results:
   fish: []
   inches_rank: 154
   lbs_rank: 154
-- angler: DM
+- angler: Dan McClelland
   inches: 0
   lbs: 0
   fish: []
@@ -1839,13 +1839,13 @@ results:
   fish: []
   inches_rank: 159
   lbs_rank: 159
-- angler: MO
+- angler: Mark Obana
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 160
   lbs_rank: 160
-- angler: WP
+- angler: William Patterson
   inches: 0
   lbs: 0
   fish: []

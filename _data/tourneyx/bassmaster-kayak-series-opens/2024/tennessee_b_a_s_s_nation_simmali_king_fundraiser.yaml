@@ -35,7 +35,7 @@ results:
     weight: 4.31
   inches_rank: 2
   lbs_rank: 2
-- angler: PA
+- angler: Paul Armbrust
   inches: 94.75
   lbs: 19.7
   fish:
@@ -377,7 +377,7 @@ results:
   fish: []
   inches_rank: 26
   lbs_rank: 25
-- angler: BB
+- angler: Bryan Black
   inches: 0
   lbs: 0
   fish: []
@@ -389,7 +389,7 @@ results:
   fish: []
   inches_rank: 28
   lbs_rank: 27
-- angler: NC
+- angler: Nathan Chandler
   inches: 0
   lbs: 0
   fish: []
@@ -413,7 +413,7 @@ results:
   fish: []
   inches_rank: 32
   lbs_rank: 31
-- angler: CJ
+- angler: Calvin Johnson
   inches: 0
   lbs: 0
   fish: []
@@ -461,7 +461,7 @@ results:
   fish: []
   inches_rank: 40
   lbs_rank: 39
-- angler: LW
+- angler: Lance Wrather
   inches: 0
   lbs: 0
   fish: []

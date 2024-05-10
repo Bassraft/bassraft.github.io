@@ -573,7 +573,7 @@ results:
     weight: 0.91
   inches_rank: 37
   lbs_rank: 12
-- angler: ZB
+- angler: Zach Boyer
   inches: 50.25
   lbs: 7.78
   fish:
@@ -609,7 +609,7 @@ results:
     weight: 1.04
   inches_rank: 40
   lbs_rank: 24
-- angler: MW
+- angler: Mitchell White
   inches: 45.5
   lbs: 6.1
   fish:
@@ -621,7 +621,7 @@ results:
     weight: 0.91
   inches_rank: 41
   lbs_rank: 36
-- angler: GE
+- angler: Gavin Ellis
   inches: 45.0
   lbs: 5.64
   fish:
@@ -769,7 +769,7 @@ results:
     weight: 1.04
   inches_rank: 54
   lbs_rank: 53
-- angler: JP
+- angler: Jim Preston
   inches: 28.75
   lbs: 2.97
   fish:
@@ -987,13 +987,13 @@ results:
   fish: []
   inches_rank: 80
   lbs_rank: 82
-- angler: mb
+- angler: Heather Brock
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 81
   lbs_rank: 83
-- angler: Heather Brock
+- angler: michael brock
   inches: 0
   lbs: 0
   fish: []
@@ -1095,7 +1095,7 @@ results:
   fish: []
   inches_rank: 98
   lbs_rank: 78
-- angler: DW
+- angler: David Wise
   inches: 0
   lbs: 0
   fish: []

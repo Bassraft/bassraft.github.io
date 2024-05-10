@@ -2525,7 +2525,7 @@ results:
     weight: 1.44
   inches_rank: 139
   lbs_rank: 140
-- angler: RS
+- angler: Robert Schuster
   inches: 31.25
   lbs: 4.1
   fish:
@@ -2833,11 +2833,11 @@ results:
     weight: 1.82
   inches_rank: 174
   lbs_rank: 174
-- angler: RS
+- angler: Robert Sheets
   inches: 15.25
   lbs: 1.82
   fish:
   - inches: 15.25
     weight: 1.82
   inches_rank: 175
-  lbs_rank: 141
+  lbs_rank: 175

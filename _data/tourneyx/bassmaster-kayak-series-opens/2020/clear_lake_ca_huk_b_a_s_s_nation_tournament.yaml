@@ -179,7 +179,7 @@ results:
     weight: 2.81
   inches_rank: 11
   lbs_rank: 12
-- angler: GB
+- angler: Greg Blanchard
   inches: 87.0
   lbs: 17.36
   fish:
@@ -211,7 +211,7 @@ results:
     weight: 2.67
   inches_rank: 13
   lbs_rank: 15
-- angler: DB
+- angler: David Burruss
   inches: 86.0
   lbs: 14.4
   fish:
@@ -705,7 +705,7 @@ results:
     weight: 0.79
   inches_rank: 44
   lbs_rank: 47
-- angler: MN
+- angler: Michael Navarra
   inches: 61.5
   lbs: 8.76
   fish:
@@ -879,7 +879,7 @@ results:
   fish: []
   inches_rank: 60
   lbs_rank: 61
-- angler: DS
+- angler: Dylan Stark
   inches: 0
   lbs: 0
   fish: []

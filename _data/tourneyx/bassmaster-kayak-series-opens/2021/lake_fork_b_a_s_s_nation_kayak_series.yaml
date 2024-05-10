@@ -435,7 +435,7 @@ results:
     weight: 1.44
   inches_rank: 27
   lbs_rank: 25
-- angler: WK
+- angler: Will Kirby
   inches: 86.75
   lbs: 15.36
   fish:
@@ -563,7 +563,7 @@ results:
     weight: 0.97
   inches_rank: 35
   lbs_rank: 29
-- angler: EH
+- angler: Ellis Howard
   inches: 85.25
   lbs: 13.9
   fish:
@@ -1553,7 +1553,7 @@ results:
     weight: 1.27
   inches_rank: 102
   lbs_rank: 108
-- angler: WF
+- angler: William Frentress
   inches: 43.25
   lbs: 4.73
   fish:
@@ -1671,7 +1671,7 @@ results:
     weight: 1.72
   inches_rank: 113
   lbs_rank: 101
-- angler: ML
+- angler: Max Lawson
   inches: 34.0
   lbs: 7.16
   fish:
@@ -1761,7 +1761,7 @@ results:
     weight: 1.44
   inches_rank: 122
   lbs_rank: 125
-- angler: jg
+- angler: james garner
   inches: 30.25
   lbs: 3.54
   fish:
@@ -1979,7 +1979,7 @@ results:
     weight: 1.53
   inches_rank: 147
   lbs_rank: 147
-- angler: CF
+- angler: Chris Franklin
   inches: 14.0
   lbs: 1.35
   fish:
@@ -1995,7 +1995,7 @@ results:
     weight: 1.27
   inches_rank: 149
   lbs_rank: 149
-- angler: BH
+- angler: Ben Huffman
   inches: 13.5
   lbs: 1.19
   fish:
@@ -2059,7 +2059,7 @@ results:
     weight: 0.91
   inches_rank: 157
   lbs_rank: 156
-- angler: QC
+- angler: Quentin Clark
   inches: 12.25
   lbs: 0.85
   fish:
@@ -2081,7 +2081,7 @@ results:
   fish: []
   inches_rank: 160
   lbs_rank: 173
-- angler: JA
+- angler: James Adcock
   inches: 0
   lbs: 0
   fish: []
@@ -2123,24 +2123,24 @@ results:
   fish: []
   inches_rank: 167
   lbs_rank: 164
-- angler: JF
+- angler: Jacob Flack
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 168
   lbs_rank: 165
-- angler: WF
+- angler: Wayne Franklin
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 169
-  lbs_rank: 114
-- angler: JF
+  lbs_rank: 166
+- angler: Joe Franklin
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 170
-  lbs_rank: 165
+  lbs_rank: 167
 - angler: MJ Garza
   inches: 0
   lbs: 0

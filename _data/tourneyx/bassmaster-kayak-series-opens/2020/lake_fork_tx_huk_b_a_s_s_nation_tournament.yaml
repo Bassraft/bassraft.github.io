@@ -435,7 +435,7 @@ results:
     weight: 2.04
   inches_rank: 27
   lbs_rank: 36
-- angler: CH
+- angler: Christa Hibbs
   inches: 85.25
   lbs: 13.72
   fish:
@@ -499,7 +499,7 @@ results:
     weight: 1.04
   inches_rank: 31
   lbs_rank: 35
-- angler: QC
+- angler: Quentin Clark
   inches: 84.5
   lbs: 15.52
   fish:
@@ -1203,7 +1203,7 @@ results:
     weight: 1.04
   inches_rank: 79
   lbs_rank: 78
-- angler: KW
+- angler: Kellen Weaver
   inches: 48.25
   lbs: 6.66
   fish:
@@ -1329,7 +1329,7 @@ results:
     weight: 2.53
   inches_rank: 90
   lbs_rank: 84
-- angler: SQ
+- angler: Sergio Quintana
   inches: 35.0
   lbs: 6.09
   fish:
@@ -1419,7 +1419,7 @@ results:
     weight: 1.62
   inches_rank: 99
   lbs_rank: 99
-- angler: GB
+- angler: Greg Blanchard
   inches: 29.5
   lbs: 3.25
   fish:
@@ -1591,18 +1591,18 @@ results:
     weight: 0.79
   inches_rank: 119
   lbs_rank: 119
-- angler: AA
+- angler: Angelo Alegria
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 120
   lbs_rank: 141
-- angler: AA
+- angler: Albert Alegria
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 121
-  lbs_rank: 141
+  lbs_rank: 142
 - angler: Burton Briggs
   inches: 0
   lbs: 0
@@ -1621,7 +1621,7 @@ results:
   fish: []
   inches_rank: 124
   lbs_rank: 120
-- angler: KD
+- angler: Kenneth Davis
   inches: 0
   lbs: 0
   fish: []
@@ -1723,7 +1723,7 @@ results:
   fish: []
   inches_rank: 141
   lbs_rank: 137
-- angler: MW
+- angler: Mark Wagner
   inches: 0
   lbs: 0
   fish: []
