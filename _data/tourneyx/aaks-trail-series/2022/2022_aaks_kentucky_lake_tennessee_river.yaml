@@ -351,7 +351,7 @@ results:
     weight: 2.95
   inches_rank: 14
   lbs_rank: 5
-- angler: NW
+- angler: Nathan Wood
   inches: 114.75
   lbs: 10.36
   fish:
@@ -657,7 +657,7 @@ results:
     weight: 1.04
   inches_rank: 31
   lbs_rank: 26
-- angler: RS
+- angler: Robert Schuster
   inches: 40.0
   lbs: 4.15
   fish:
@@ -697,7 +697,7 @@ results:
     weight: 1.82
   inches_rank: 35
   lbs_rank: 35
-- angler: JA
+- angler: Justin Arnold
   inches: 11.25
   lbs: 0.63
   fish:
@@ -717,13 +717,13 @@ results:
   fish: []
   inches_rank: 38
   lbs_rank: 42
-- angler: TN
+- angler: Thang Nguyen
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 39
   lbs_rank: 37
-- angler: KN
+- angler: Kimberly Nichols
   inches: 0
   lbs: 0
   fish: []

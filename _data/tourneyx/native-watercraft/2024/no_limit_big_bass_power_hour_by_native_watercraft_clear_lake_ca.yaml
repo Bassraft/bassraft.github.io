@@ -213,7 +213,7 @@ results:
     weight: 2.16
   inches_rank: 10
   lbs_rank: 6
-- angler: GB
+- angler: Greg Blanchard
   inches: 107.75
   lbs: 20.67
   fish:
@@ -231,7 +231,7 @@ results:
     weight: 2.16
   inches_rank: 11
   lbs_rank: 7
-- angler: DB
+- angler: David Burruss
   inches: 107.25
   lbs: 20.03
   fish:
@@ -317,7 +317,7 @@ results:
     weight: 2.67
   inches_rank: 16
   lbs_rank: 10
-- angler: VL
+- angler: Vanhmean Lee
   inches: 92.25
   lbs: 17.77
   fish:
@@ -413,7 +413,7 @@ results:
     weight: 1.53
   inches_rank: 22
   lbs_rank: 23
-- angler: TY
+- angler: Tubee Yang
   inches: 83.0
   lbs: 12.43
   fish:
@@ -599,7 +599,7 @@ results:
     weight: 1.62
   inches_rank: 35
   lbs_rank: 52
-- angler: JB
+- angler: Jene Burris
   inches: 57.0
   lbs: 11.84
   fish:
@@ -707,7 +707,7 @@ results:
     weight: 2.4
   inches_rank: 44
   lbs_rank: 45
-- angler: PL
+- angler: Peter Lee
   inches: 51.75
   lbs: 9.16
   fish:
@@ -755,7 +755,7 @@ results:
     weight: 2.4
   inches_rank: 48
   lbs_rank: 48
-- angler: JD
+- angler: Jeff Dickerson
   inches: 50.75
   lbs: 8.02
   fish:
@@ -873,7 +873,7 @@ results:
     weight: 2.95
   inches_rank: 59
   lbs_rank: 58
-- angler: FB
+- angler: Fabian Briones
   inches: 36.25
   lbs: 6.84
   fish:
@@ -893,7 +893,7 @@ results:
     weight: 2.95
   inches_rank: 61
   lbs_rank: 61
-- angler: TH
+- angler: Tyler Heu
   inches: 36.0
   lbs: 6.52
   fish:
@@ -913,7 +913,7 @@ results:
     weight: 2.95
   inches_rank: 63
   lbs_rank: 63
-- angler: JM
+- angler: Jon Mahoney
   inches: 35.5
   lbs: 6.33
   fish:
@@ -973,7 +973,7 @@ results:
     weight: 2.16
   inches_rank: 69
   lbs_rank: 73
-- angler: RR
+- angler: Robert Roberts
   inches: 34.5
   lbs: 5.66
   fish:
@@ -1213,7 +1213,7 @@ results:
     weight: 3.1
   inches_rank: 97
   lbs_rank: 97
-- angler: CD
+- angler: Calvin Danganan
   inches: 17.25
   lbs: 2.81
   fish:
@@ -1245,7 +1245,7 @@ results:
     weight: 2.53
   inches_rank: 101
   lbs_rank: 101
-- angler: CS
+- angler: Chan Saechao
   inches: 16.5
   lbs: 2.4
   fish:
@@ -1285,7 +1285,7 @@ results:
     weight: 2.04
   inches_rank: 106
   lbs_rank: 106
-- angler: DP
+- angler: David Pinkett
   inches: 15.25
   lbs: 1.82
   fish:
@@ -1301,7 +1301,7 @@ results:
     weight: 1.72
   inches_rank: 108
   lbs_rank: 108
-- angler: MD
+- angler: Michael Delao
   inches: 14.75
   lbs: 1.62
   fish:
@@ -1357,18 +1357,18 @@ results:
   fish: []
   inches_rank: 116
   lbs_rank: 116
-- angler: JG
+- angler: John Golab
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 117
   lbs_rank: 117
-- angler: JG
+- angler: John Gomez
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 118
-  lbs_rank: 117
+  lbs_rank: 118
 - angler: Keith Gouveia
   inches: 0
   lbs: 0
@@ -1405,7 +1405,7 @@ results:
   fish: []
   inches_rank: 124
   lbs_rank: 124
-- angler: VH
+- angler: Vincent Hoang
   inches: 0
   lbs: 0
   fish: []
@@ -1417,7 +1417,7 @@ results:
   fish: []
   inches_rank: 126
   lbs_rank: 126
-- angler: DH
+- angler: David Hopwood
   inches: 0
   lbs: 0
   fish: []
@@ -1441,7 +1441,7 @@ results:
   fish: []
   inches_rank: 130
   lbs_rank: 130
-- angler: DI
+- angler: David Irwin
   inches: 0
   lbs: 0
   fish: []
@@ -1471,7 +1471,7 @@ results:
   fish: []
   inches_rank: 135
   lbs_rank: 135
-- angler: JL
+- angler: Jorge Lara
   inches: 0
   lbs: 0
   fish: []
@@ -1483,7 +1483,7 @@ results:
   fish: []
   inches_rank: 137
   lbs_rank: 137
-- angler: DL
+- angler: Danny Lor
   inches: 0
   lbs: 0
   fish: []
@@ -1501,7 +1501,7 @@ results:
   fish: []
   inches_rank: 140
   lbs_rank: 140
-- angler: AM
+- angler: Anthony Martinez
   inches: 0
   lbs: 0
   fish: []
@@ -1537,18 +1537,18 @@ results:
   fish: []
   inches_rank: 146
   lbs_rank: 146
-- angler: so
+- angler: scott ozee
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 147
   lbs_rank: 147
-- angler: DP
+- angler: Daniel Phan
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 148
-  lbs_rank: 107
+  lbs_rank: 148
 - angler: Bounheung Phongphaychit
   inches: 0
   lbs: 0
@@ -1561,7 +1561,7 @@ results:
   fish: []
   inches_rank: 150
   lbs_rank: 150
-- angler: AP
+- angler: Angel PilarMoreno
   inches: 0
   lbs: 0
   fish: []
@@ -1573,13 +1573,13 @@ results:
   fish: []
   inches_rank: 152
   lbs_rank: 152
-- angler: FR
+- angler: Federico Reveles
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 153
   lbs_rank: 153
-- angler: PA
+- angler: Philip Abasolo
   inches: 0
   lbs: 0
   fish: []
@@ -1597,7 +1597,7 @@ results:
   fish: []
   inches_rank: 156
   lbs_rank: 156
-- angler: CA
+- angler: Canaan Andrade
   inches: 0
   lbs: 0
   fish: []
@@ -1609,7 +1609,7 @@ results:
   fish: []
   inches_rank: 158
   lbs_rank: 158
-- angler: PB
+- angler: Paul Balistreri
   inches: 0
   lbs: 0
   fish: []
@@ -1621,7 +1621,7 @@ results:
   fish: []
   inches_rank: 160
   lbs_rank: 160
-- angler: NB
+- angler: Nikita Bondarenko
   inches: 0
   lbs: 0
   fish: []
@@ -1645,13 +1645,13 @@ results:
   fish: []
   inches_rank: 164
   lbs_rank: 164
-- angler: MB
+- angler: Matthew Bustillos
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 165
   lbs_rank: 165
-- angler: JC
+- angler: Jeffery Cabral
   inches: 0
   lbs: 0
   fish: []
@@ -1699,7 +1699,7 @@ results:
   fish: []
   inches_rank: 173
   lbs_rank: 173
-- angler: PD
+- angler: Perry DiBenedetto
   inches: 0
   lbs: 0
   fish: []

@@ -289,7 +289,7 @@ results:
     weight: 2.53
   inches_rank: 11
   lbs_rank: 14
-- angler: EM
+- angler: Ewing Minor
   inches: 171.0
   lbs: 29.47
   fish:
@@ -689,7 +689,7 @@ results:
     weight: 0.79
   inches_rank: 27
   lbs_rank: 28
-- angler: MW
+- angler: Mitchell White
   inches: 137.5
   lbs: 17.07
   fish:
@@ -1747,7 +1747,7 @@ results:
     weight: 0.85
   inches_rank: 85
   lbs_rank: 79
-- angler: MK
+- angler: Michael Kervaski
   inches: 64.5
   lbs: 10.35
   fish:
@@ -2219,7 +2219,7 @@ results:
     weight: 0.85
   inches_rank: 126
   lbs_rank: 142
-- angler: SB
+- angler: Stephen Benoit
   inches: 24.25
   lbs: 1.6400000000000001
   fish:
@@ -2293,7 +2293,7 @@ results:
     weight: 2.53
   inches_rank: 135
   lbs_rank: 129
-- angler: TP
+- angler: Taran Parker
   inches: 16.5
   lbs: 2.4
   fish:
@@ -2373,7 +2373,7 @@ results:
     weight: 1.53
   inches_rank: 145
   lbs_rank: 145
-- angler: MB
+- angler: Mark Binkley
   inches: 14.5
   lbs: 1.53
   fish:
@@ -2421,7 +2421,7 @@ results:
     weight: 1.11
   inches_rank: 151
   lbs_rank: 151
-- angler: SF
+- angler: Shawn Fields
   inches: 13.0
   lbs: 1.04
   fish:

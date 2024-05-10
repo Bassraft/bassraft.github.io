@@ -75,7 +75,7 @@ results:
     weight: 1.72
   inches_rank: 2
   lbs_rank: 2
-- angler: TK
+- angler: Tom Kelly
   inches: 247.0
   lbs: 36.5
   fish:
@@ -737,7 +737,7 @@ results:
     weight: 1.35
   inches_rank: 21
   lbs_rank: 20
-- angler: RL
+- angler: Rickey Lynch
   inches: 184.25
   lbs: 22.97
   fish:
@@ -1127,7 +1127,7 @@ results:
     weight: 1.53
   inches_rank: 35
   lbs_rank: 35
-- angler: MS
+- angler: Michael Sutherlund
   inches: 140.75
   lbs: 18.32
   fish:
@@ -1379,7 +1379,7 @@ results:
     weight: 1.35
   inches_rank: 46
   lbs_rank: 49
-- angler: CW
+- angler: Christopher Wilder
   inches: 121.75
   lbs: 14.86
   fish:
@@ -1747,7 +1747,7 @@ results:
     weight: 1.35
   inches_rank: 66
   lbs_rank: 66
-- angler: RL
+- angler: Rick Lynch
   inches: 76.0
   lbs: 9.22
   fish:
@@ -1762,7 +1762,7 @@ results:
   - inches: 14.25
     weight: 1.44
   inches_rank: 67
-  lbs_rank: 21
+  lbs_rank: 67
 - angler: Braedon Lamb
   inches: 76.0
   lbs: 9.09
@@ -1849,7 +1849,7 @@ results:
     weight: 1.35
   inches_rank: 73
   lbs_rank: 73
-- angler: CB
+- angler: Craig Buoncompagno
   inches: 60.5
   lbs: 7.12
   fish:
@@ -2041,7 +2041,7 @@ results:
     weight: 1.11
   inches_rank: 90
   lbs_rank: 91
-- angler: PJ
+- angler: Paul Johnson
   inches: 16.5
   lbs: 2.4
   fish:
@@ -2103,13 +2103,13 @@ results:
   fish: []
   inches_rank: 98
   lbs_rank: 110
-- angler: JC
+- angler: Jason Carpenter
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 99
   lbs_rank: 99
-- angler: ME
+- angler: Michael Erdody
   inches: 0
   lbs: 0
   fish: []

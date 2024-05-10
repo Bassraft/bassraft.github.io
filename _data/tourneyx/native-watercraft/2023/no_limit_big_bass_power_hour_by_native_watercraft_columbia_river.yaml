@@ -261,7 +261,7 @@ results:
     weight: 1.35
   inches_rank: 9
   lbs_rank: 7
-- angler: TA
+- angler: Travis Anderson
   inches: 146.0
   lbs: 21.0
   fish:
@@ -309,7 +309,7 @@ results:
     weight: 1.35
   inches_rank: 11
   lbs_rank: 12
-- angler: JD
+- angler: Jeff Dugger
   inches: 132.75
   lbs: 20.21
   fish:
@@ -491,7 +491,7 @@ results:
     weight: 1.44
   inches_rank: 20
   lbs_rank: 13
-- angler: CG
+- angler: Chris Glover
   inches: 102.0
   lbs: 16.44
   fish:
@@ -1065,7 +1065,7 @@ results:
     weight: 1.62
   inches_rank: 61
   lbs_rank: 61
-- angler: DI
+- angler: David Irwin
   inches: 29.5
   lbs: 3.25
   fish:
@@ -1111,7 +1111,7 @@ results:
     weight: 2.4
   inches_rank: 66
   lbs_rank: 66
-- angler: KM
+- angler: Kyle Mallett
   inches: 16.5
   lbs: 2.4
   fish:
@@ -1175,7 +1175,7 @@ results:
     weight: 1.35
   inches_rank: 74
   lbs_rank: 73
-- angler: RD
+- angler: Rachael DeluLundberg
   inches: 0
   lbs: 0
   fish: []
@@ -1217,7 +1217,7 @@ results:
   fish: []
   inches_rank: 81
   lbs_rank: 81
-- angler: CV
+- angler: Carlos Vargas
   inches: 0
   lbs: 0
   fish: []

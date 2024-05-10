@@ -986,7 +986,7 @@ results:
     weight: 1.35
   inches_rank: 58
   lbs_rank: 65
-- angler: MM
+- angler: Mike Mcfall
   inches: 44.5
   lbs: 5.0
   fish:
@@ -1020,7 +1020,7 @@ results:
     weight: 3.76
   inches_rank: 61
   lbs_rank: 29
-- angler: NT
+- angler: Noah Tomasik
   inches: 34.75
   lbs: 5.97
   fish:
@@ -1140,7 +1140,7 @@ results:
     weight: 1.93
   inches_rank: 73
   lbs_rank: 80
-- angler: JC
+- angler: Jim Childress
   inches: 31.0
   lbs: 4.02
   fish:
@@ -1150,7 +1150,7 @@ results:
     weight: 1.35
   inches_rank: 74
   lbs_rank: 76
-- angler: GR
+- angler: Garrett Reding
   inches: 31.0
   lbs: 3.97
   fish:
@@ -1276,7 +1276,7 @@ results:
     weight: 2.95
   inches_rank: 88
   lbs_rank: 89
-- angler: BH
+- angler: Brandon Haywood
   inches: 17.5
   lbs: 2.95
   fish:
@@ -1428,7 +1428,7 @@ results:
     weight: 1.62
   inches_rank: 107
   lbs_rank: 107
-- angler: TY
+- angler: Teng Yang
   inches: 14.75
   lbs: 1.62
   fish:
@@ -1444,7 +1444,7 @@ results:
     weight: 1.53
   inches_rank: 109
   lbs_rank: 110
-- angler: JV
+- angler: Joshua Vang
   inches: 14.5
   lbs: 1.53
   fish:
@@ -1474,7 +1474,7 @@ results:
   fish: []
   inches_rank: 113
   lbs_rank: 126
-- angler: FC
+- angler: Fisher Cannon
   inches: 0
   lbs: 0
   fish: []
@@ -1528,7 +1528,7 @@ results:
   fish: []
   inches_rank: 122
   lbs_rank: 135
-- angler: JF
+- angler: John Foster
   inches: 0
   lbs: 0
   fish: []
@@ -1546,7 +1546,7 @@ results:
   fish: []
   inches_rank: 125
   lbs_rank: 138
-- angler: JH
+- angler: Joseph Harris
   inches: 0
   lbs: 0
   fish: []
@@ -1618,12 +1618,12 @@ results:
   fish: []
   inches_rank: 137
   lbs_rank: 150
-- angler: MM
+- angler: Marcus Monaco
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 138
-  lbs_rank: 68
+  lbs_rank: 151
 - angler: Larry Moua
   inches: 0
   lbs: 0
@@ -1696,7 +1696,7 @@ results:
   fish: []
   inches_rank: 150
   lbs_rank: 122
-- angler: SY
+- angler: Steven Yang
   inches: 0
   lbs: 0
   fish: []

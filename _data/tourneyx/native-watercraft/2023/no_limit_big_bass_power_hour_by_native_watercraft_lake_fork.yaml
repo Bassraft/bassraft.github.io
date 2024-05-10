@@ -177,7 +177,7 @@ results:
     weight: 1.82
   inches_rank: 9
   lbs_rank: 9
-- angler: JB
+- angler: Jay Burt
   inches: 84.0
   lbs: 13.1
   fish:
@@ -449,7 +449,7 @@ results:
     weight: 1.44
   inches_rank: 33
   lbs_rank: 37
-- angler: RR
+- angler: Rolando Ramon
   inches: 32.0
   lbs: 4.33
   fish:
@@ -489,7 +489,7 @@ results:
     weight: 1.44
   inches_rank: 37
   lbs_rank: 40
-- angler: CL
+- angler: Christian Lesso
   inches: 31.5
   lbs: 4.12
   fish:
@@ -687,7 +687,7 @@ results:
     weight: 2.28
   inches_rank: 60
   lbs_rank: 60
-- angler: HE
+- angler: Heath Elliott
   inches: 16.0
   lbs: 2.16
   fish:
@@ -703,7 +703,7 @@ results:
     weight: 2.04
   inches_rank: 62
   lbs_rank: 62
-- angler: MM
+- angler: Michael McCluskey
   inches: 15.5
   lbs: 1.93
   fish:
@@ -719,7 +719,7 @@ results:
     weight: 1.93
   inches_rank: 64
   lbs_rank: 64
-- angler: AR
+- angler: Aaron Roberts
   inches: 15.5
   lbs: 1.93
   fish:
@@ -751,7 +751,7 @@ results:
     weight: 1.82
   inches_rank: 68
   lbs_rank: 68
-- angler: WF
+- angler: William Frentress
   inches: 15.25
   lbs: 1.82
   fish:
@@ -807,7 +807,7 @@ results:
     weight: 1.35
   inches_rank: 75
   lbs_rank: 75
-- angler: DA
+- angler: Damion Arellano
   inches: 14.0
   lbs: 1.35
   fish:
@@ -829,7 +829,7 @@ results:
   fish: []
   inches_rank: 78
   lbs_rank: 78
-- angler: GC
+- angler: Gustavo Cortes
   inches: 0
   lbs: 0
   fish: []
@@ -931,7 +931,7 @@ results:
   fish: []
   inches_rank: 95
   lbs_rank: 95
-- angler: JR
+- angler: Jason Robinson
   inches: 0
   lbs: 0
   fish: []
@@ -985,7 +985,7 @@ results:
   fish: []
   inches_rank: 104
   lbs_rank: 104
-- angler: JS
+- angler: Jon Swann
   inches: 0
   lbs: 0
   fish: []
@@ -1009,19 +1009,19 @@ results:
   fish: []
   inches_rank: 108
   lbs_rank: 108
-- angler: Jessie VanSickler
+- angler: Tim VanSickler
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 109
   lbs_rank: 109
-- angler: JZ VanSickler
+- angler: Jessie VanSickler
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 110
   lbs_rank: 110
-- angler: Tim VanSickler
+- angler: JZ VanSickler
   inches: 0
   lbs: 0
   fish: []
@@ -1063,7 +1063,7 @@ results:
   fish: []
   inches_rank: 117
   lbs_rank: 117
-- angler: AB
+- angler: Alek Blankenau
   inches: 0
   lbs: 0
   fish: []

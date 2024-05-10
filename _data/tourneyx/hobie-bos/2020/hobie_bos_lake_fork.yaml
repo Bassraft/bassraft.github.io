@@ -343,7 +343,7 @@ results:
     weight: 0.85
   inches_rank: 14
   lbs_rank: 31
-- angler: KW
+- angler: Kevin Workman
   inches: 133.5
   lbs: 21.82
   fish:
@@ -409,7 +409,7 @@ results:
     weight: 1.62
   inches_rank: 17
   lbs_rank: 19
-- angler: DM
+- angler: Dirk Miller
   inches: 128.0
   lbs: 13.579999999999998
   fish:
@@ -717,7 +717,7 @@ results:
     weight: 1.62
   inches_rank: 33
   lbs_rank: 27
-- angler: TB
+- angler: Tory Bouma
   inches: 84.25
   lbs: 17.08
   fish:
@@ -1111,7 +1111,7 @@ results:
     weight: 2.28
   inches_rank: 62
   lbs_rank: 67
-- angler: TG
+- angler: Tim Gibson
   inches: 45.5
   lbs: 5.47
   fish:
@@ -1123,7 +1123,7 @@ results:
     weight: 1.35
   inches_rank: 63
   lbs_rank: 70
-- angler: jg
+- angler: james garner
   inches: 45.5
   lbs: 5.36
   fish:
@@ -1225,7 +1225,7 @@ results:
     weight: 2.53
   inches_rank: 72
   lbs_rank: 54
-- angler: FH
+- angler: Frank Hooper
   inches: 37.25
   lbs: 7.51
   fish:
@@ -1445,25 +1445,15 @@ results:
     weight: 0.91
   inches_rank: 94
   lbs_rank: 100
-- angler: AA
+- angler: Albert Alegria
   inches: 28.25
   lbs: 2.83
   fish:
-  - &1
-    inches: 15.0
+  - inches: 15.0
     weight: 1.72
-  - &2
-    inches: 13.25
+  - inches: 13.25
     weight: 1.11
   inches_rank: 95
-  lbs_rank: 102
-- angler: AA
-  inches: 28.25
-  lbs: 2.83
-  fish:
-  - *1
-  - *2
-  inches_rank: 96
   lbs_rank: 102
 - angler: Jordan Westerman
   inches: 19.25
@@ -1471,7 +1461,7 @@ results:
   fish:
   - inches: 19.25
     weight: 4.12
-  inches_rank: 97
+  inches_rank: 96
   lbs_rank: 83
 - angler: Jason Kincy
   inches: 19.25
@@ -1479,7 +1469,7 @@ results:
   fish:
   - inches: 19.25
     weight: 4.12
-  inches_rank: 98
+  inches_rank: 97
   lbs_rank: 84
 - angler: Katherine Field
   inches: 19.0
@@ -1487,7 +1477,7 @@ results:
   fish:
   - inches: 19.0
     weight: 3.93
-  inches_rank: 99
+  inches_rank: 98
   lbs_rank: 86
 - angler: Tyler Caldwell
   inches: 19.0
@@ -1495,7 +1485,7 @@ results:
   fish:
   - inches: 19.0
     weight: 3.93
-  inches_rank: 100
+  inches_rank: 99
   lbs_rank: 87
 - angler: Robert Williams
   inches: 18.75
@@ -1503,7 +1493,7 @@ results:
   fish:
   - inches: 18.75
     weight: 3.76
-  inches_rank: 101
+  inches_rank: 100
   lbs_rank: 90
 - angler: Daniel Glenney
   inches: 17.75
@@ -1511,15 +1501,15 @@ results:
   fish:
   - inches: 17.75
     weight: 3.1
-  inches_rank: 102
+  inches_rank: 101
   lbs_rank: 98
-- angler: JM
+- angler: Joey Mongognia
   inches: 17.75
   lbs: 3.1
   fish:
   - inches: 17.75
     weight: 3.1
-  inches_rank: 103
+  inches_rank: 102
   lbs_rank: 99
 - angler: Ron Solberg
   inches: 17.25
@@ -1527,25 +1517,33 @@ results:
   fish:
   - inches: 17.25
     weight: 2.81
-  inches_rank: 104
-  lbs_rank: 104
+  inches_rank: 103
+  lbs_rank: 103
 - angler: Silas Garrett
   inches: 16.75
   lbs: 2.53
   fish:
   - inches: 16.75
     weight: 2.53
-  inches_rank: 105
-  lbs_rank: 105
+  inches_rank: 104
+  lbs_rank: 104
 - angler: Kaili Purviance
   inches: 16.25
   lbs: 2.28
   fish:
   - inches: 16.25
     weight: 2.28
-  inches_rank: 106
-  lbs_rank: 106
+  inches_rank: 105
+  lbs_rank: 105
 - angler: Chuck Bahan
+  inches: 16.0
+  lbs: 2.16
+  fish:
+  - inches: 16.0
+    weight: 2.16
+  inches_rank: 106
+  lbs_rank: 107
+- angler: Angelo Alegria
   inches: 16.0
   lbs: 2.16
   fish:
@@ -1560,7 +1558,7 @@ results:
   - inches: 16.0
     weight: 2.16
   inches_rank: 108
-  lbs_rank: 107
+  lbs_rank: 106
 - angler: Sean Rastanis
   inches: 15.75
   lbs: 2.04
@@ -1705,7 +1703,7 @@ results:
   fish: []
   inches_rank: 128
   lbs_rank: 128
-- angler: WC
+- angler: Wayne Cecil
   inches: 0
   lbs: 0
   fish: []
@@ -1717,13 +1715,13 @@ results:
   fish: []
   inches_rank: 130
   lbs_rank: 130
-- angler: DD
+- angler: Donald Davis
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 131
   lbs_rank: 131
-- angler: CD
+- angler: Cory Doyle
   inches: 0
   lbs: 0
   fish: []
@@ -1735,7 +1733,7 @@ results:
   fish: []
   inches_rank: 133
   lbs_rank: 133
-- angler: WF
+- angler: Wayne Franklin
   inches: 0
   lbs: 0
   fish: []
@@ -1771,7 +1769,7 @@ results:
   fish: []
   inches_rank: 139
   lbs_rank: 139
-- angler: CH
+- angler: Chance HOOPER
   inches: 0
   lbs: 0
   fish: []
@@ -1819,7 +1817,7 @@ results:
   fish: []
   inches_rank: 147
   lbs_rank: 147
-- angler: WN
+- angler: William Nelson
   inches: 0
   lbs: 0
   fish: []

@@ -393,7 +393,7 @@ results:
     weight: 1.35
   inches_rank: 15
   lbs_rank: 20
-- angler: GB
+- angler: Greg Blanchard
   inches: 150.75
   lbs: 18.119999999999997
   fish:
@@ -419,7 +419,7 @@ results:
     weight: 1.11
   inches_rank: 16
   lbs_rank: 18
-- angler: CF
+- angler: Cory Frost
   inches: 150.5
   lbs: 18.630000000000003
   fish:
@@ -849,7 +849,7 @@ results:
     weight: 1.04
   inches_rank: 33
   lbs_rank: 29
-- angler: FB
+- angler: Fabian Briones
   inches: 121.0
   lbs: 10.9
   fish:
@@ -935,7 +935,7 @@ results:
     weight: 0.85
   inches_rank: 37
   lbs_rank: 38
-- angler: YY
+- angler: Yia Yang
   inches: 91.25
   lbs: 12.07
   fish:
@@ -1021,7 +1021,7 @@ results:
     weight: 0.91
   inches_rank: 42
   lbs_rank: 40
-- angler: MB
+- angler: Michael Bernardo
   inches: 66.25
   lbs: 9.93
   fish:
@@ -1069,7 +1069,7 @@ results:
     weight: 0.79
   inches_rank: 46
   lbs_rank: 46
-- angler: DV
+- angler: Dominic Vitali
   inches: 0
   lbs: 0
   fish: []

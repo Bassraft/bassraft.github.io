@@ -1121,7 +1121,7 @@ results:
     weight: 2.16
   inches_rank: 43
   lbs_rank: 46
-- angler: MW
+- angler: Mitchell White
   inches: 161.5
   lbs: 24.39
   fish:
@@ -2243,7 +2243,7 @@ results:
     weight: 0.91
   inches_rank: 89
   lbs_rank: 55
-- angler: PA
+- angler: Paul Armbrust
   inches: 105.0
   lbs: 12.74
   fish:
@@ -3089,7 +3089,7 @@ results:
   fish: []
   inches_rank: 151
   lbs_rank: 151
-- angler: MC
+- angler: Mark Chambers
   inches: 0
   lbs: 0
   fish: []

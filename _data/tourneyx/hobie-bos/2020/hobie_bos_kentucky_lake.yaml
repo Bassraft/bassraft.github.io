@@ -1563,7 +1563,7 @@ results:
     weight: 1.19
   inches_rank: 60
   lbs_rank: 63
-- angler: CN
+- angler: CT Neal
   inches: 147.0
   lbs: 17.88
   fish:
@@ -1855,7 +1855,7 @@ results:
     weight: 0.97
   inches_rank: 72
   lbs_rank: 80
-- angler: TT
+- angler: Tyler Tacy
   inches: 99.0
   lbs: 15.5
   fish:
@@ -2295,7 +2295,7 @@ results:
     weight: 3.1
   inches_rank: 102
   lbs_rank: 95
-- angler: MW
+- angler: Mitchell White
   inches: 34.0
   lbs: 5.34
   fish:
@@ -2305,7 +2305,7 @@ results:
     weight: 2.67
   inches_rank: 103
   lbs_rank: 99
-- angler: SR
+- angler: Sam Robertson
   inches: 33.5
   lbs: 5.06
   fish:
@@ -2385,7 +2385,7 @@ results:
     weight: 1.53
   inches_rank: 111
   lbs_rank: 111
-- angler: MB
+- angler: Mark Binkley
   inches: 29.0
   lbs: 3.06
   fish:
@@ -2459,7 +2459,7 @@ results:
   fish: []
   inches_rank: 120
   lbs_rank: 118
-- angler: WG
+- angler: Will Goris
   inches: 0
   lbs: 0
   fish: []
@@ -2489,13 +2489,13 @@ results:
   fish: []
   inches_rank: 125
   lbs_rank: 123
-- angler: WS
+- angler: Will Stumbo
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 126
   lbs_rank: 124
-- angler: JW
+- angler: John Walters
   inches: 0
   lbs: 0
   fish: []

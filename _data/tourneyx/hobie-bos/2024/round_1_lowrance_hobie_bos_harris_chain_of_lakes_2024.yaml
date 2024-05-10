@@ -211,7 +211,7 @@ results:
     weight: 0.97
   inches_rank: 8
   lbs_rank: 6
-- angler: CJ
+- angler: Carl Jocumsen
   inches: 170.75
   lbs: 29.95
   fish:
@@ -2255,7 +2255,7 @@ results:
     weight: 1.35
   inches_rank: 91
   lbs_rank: 96
-- angler: CL
+- angler: Christian Lesso
   inches: 97.5
   lbs: 10.030000000000001
   fish:
@@ -2669,7 +2669,7 @@ results:
     weight: 1.04
   inches_rank: 116
   lbs_rank: 113
-- angler: MW
+- angler: Mitchell White
   inches: 58.0
   lbs: 6.16
   fish:
@@ -2711,7 +2711,7 @@ results:
     weight: 1.27
   inches_rank: 119
   lbs_rank: 120
-- angler: PA
+- angler: Paul Armbrust
   inches: 56.25
   lbs: 5.540000000000001
   fish:
@@ -2951,7 +2951,7 @@ results:
   fish: []
   inches_rank: 143
   lbs_rank: 153
-- angler: BA
+- angler: Brian Arnold
   inches: 0
   lbs: 0
   fish: []

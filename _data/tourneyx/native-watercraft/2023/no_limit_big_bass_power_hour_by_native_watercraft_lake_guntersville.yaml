@@ -791,7 +791,7 @@ results:
     weight: 1.44
   inches_rank: 34
   lbs_rank: 39
-- angler: TS
+- angler: Trey Sampson
   inches: 75.25
   lbs: 8.86
   fish:
@@ -839,7 +839,7 @@ results:
     weight: 1.35
   inches_rank: 37
   lbs_rank: 50
-- angler: LP
+- angler: Logan Parks
   inches: 72.75
   lbs: 13.92
   fish:
@@ -1003,7 +1003,7 @@ results:
     weight: 1.72
   inches_rank: 49
   lbs_rank: 35
-- angler: JH
+- angler: Joshua Hartley
   inches: 52.0
   lbs: 9.04
   fish:
@@ -1267,7 +1267,7 @@ results:
     weight: 1.35
   inches_rank: 73
   lbs_rank: 73
-- angler: TY
+- angler: Todd Yocum
   inches: 32.25
   lbs: 4.63
   fish:
@@ -1327,7 +1327,7 @@ results:
     weight: 1.72
   inches_rank: 79
   lbs_rank: 83
-- angler: MK
+- angler: Michael Kervaski
   inches: 30.0
   lbs: 3.51
   fish:
@@ -1383,7 +1383,7 @@ results:
     weight: 4.12
   inches_rank: 85
   lbs_rank: 78
-- angler: CW
+- angler: Cody Wooden
   inches: 18.75
   lbs: 3.76
   fish:
@@ -1407,7 +1407,7 @@ results:
     weight: 2.16
   inches_rank: 88
   lbs_rank: 88
-- angler: TW
+- angler: Tyler Wells
   inches: 15.5
   lbs: 1.93
   fish:
@@ -1481,7 +1481,7 @@ results:
   fish: []
   inches_rank: 98
   lbs_rank: 115
-- angler: CB
+- angler: Cody Burns
   inches: 0
   lbs: 0
   fish: []
@@ -1499,13 +1499,13 @@ results:
   fish: []
   inches_rank: 101
   lbs_rank: 98
-- angler: CG
+- angler: Connor Gray
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 102
   lbs_rank: 99
-- angler: WG
+- angler: Will Gresham
   inches: 0
   lbs: 0
   fish: []
@@ -1523,7 +1523,7 @@ results:
   fish: []
   inches_rank: 105
   lbs_rank: 102
-- angler: SH
+- angler: Seth Hill
   inches: 0
   lbs: 0
   fish: []

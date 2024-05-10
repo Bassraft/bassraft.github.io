@@ -1001,7 +1001,7 @@ results:
     weight: 1.44
   inches_rank: 34
   lbs_rank: 36
-- angler: SR
+- angler: Shayne Riley
   inches: 142.25
   lbs: 19.58
   fish:
@@ -1271,7 +1271,7 @@ results:
     weight: 1.53
   inches_rank: 46
   lbs_rank: 49
-- angler: AF
+- angler: Adam Finkbiner
   inches: 123.75
   lbs: 15.54
   fish:
@@ -1415,7 +1415,7 @@ results:
     weight: 1.62
   inches_rank: 53
   lbs_rank: 53
-- angler: RM
+- angler: Rick McIntyre
   inches: 98.75
   lbs: 15.28
   fish:
@@ -1523,7 +1523,7 @@ results:
     weight: 1.53
   inches_rank: 59
   lbs_rank: 63
-- angler: CE
+- angler: Chris English
   inches: 93.25
   lbs: 12.08
   fish:
@@ -1605,7 +1605,7 @@ results:
     weight: 1.82
   inches_rank: 64
   lbs_rank: 64
-- angler: AF
+- angler: Alex Fry
   inches: 82.5
   lbs: 12.16
   fish:
@@ -1620,7 +1620,7 @@ results:
   - inches: 15.0
     weight: 1.72
   inches_rank: 65
-  lbs_rank: 51
+  lbs_rank: 65
 - angler: Brandon Yoder
   inches: 80.0
   lbs: 11.35
@@ -1715,7 +1715,7 @@ results:
     weight: 2.67
   inches_rank: 71
   lbs_rank: 61
-- angler: RR
+- angler: Randy Rosenberry
   inches: 66.0
   lbs: 10.17
   fish:
@@ -2157,7 +2157,7 @@ results:
     weight: 1.44
   inches_rank: 107
   lbs_rank: 107
-- angler: TS
+- angler: Todd Spacht
   inches: 32.5
   lbs: 4.85
   fish:
@@ -2283,7 +2283,7 @@ results:
     weight: 3.58
   inches_rank: 120
   lbs_rank: 116
-- angler: SC
+- angler: Stephen Clinton
   inches: 18.25
   lbs: 3.42
   fish:
@@ -2315,7 +2315,7 @@ results:
     weight: 2.53
   inches_rank: 124
   lbs_rank: 124
-- angler: BD
+- angler: Bob Drogan
   inches: 16.5
   lbs: 2.4
   fish:
@@ -2323,7 +2323,7 @@ results:
     weight: 2.4
   inches_rank: 125
   lbs_rank: 125
-- angler: CB
+- angler: Cody Bressler
   inches: 16.5
   lbs: 2.4
   fish:
@@ -2411,7 +2411,7 @@ results:
     weight: 1.62
   inches_rank: 136
   lbs_rank: 136
-- angler: BS
+- angler: Benjamin Spivey
   inches: 14.5
   lbs: 1.53
   fish:
@@ -2461,12 +2461,12 @@ results:
   fish: []
   inches_rank: 143
   lbs_rank: 143
-- angler: CB
+- angler: Christian Bryant
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 144
-  lbs_rank: 126
+  lbs_rank: 144
 - angler: Connor Drogan
   inches: 0
   lbs: 0
@@ -2485,7 +2485,7 @@ results:
   fish: []
   inches_rank: 147
   lbs_rank: 147
-- angler: MH
+- angler: Mark Henry
   inches: 0
   lbs: 0
   fish: []
@@ -2515,7 +2515,7 @@ results:
   fish: []
   inches_rank: 152
   lbs_rank: 152
-- angler: KW
+- angler: Kade Wesner
   inches: 0
   lbs: 0
   fish: []

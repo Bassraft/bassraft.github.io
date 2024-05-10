@@ -203,7 +203,7 @@ results:
     weight: 1.35
   inches_rank: 7
   lbs_rank: 11
-- angler: PD
+- angler: Phil Dark
   inches: 122.0
   lbs: 20.91
   fish:
@@ -785,7 +785,7 @@ results:
     weight: 1.35
   inches_rank: 45
   lbs_rank: 47
-- angler: RX
+- angler: Randy Xiong
   inches: 47.0
   lbs: 6.06
   fish:
@@ -809,7 +809,7 @@ results:
     weight: 1.35
   inches_rank: 47
   lbs_rank: 56
-- angler: VH
+- angler: Victorious Hawj
   inches: 46.25
   lbs: 5.69
   fish:
@@ -821,7 +821,7 @@ results:
     weight: 1.72
   inches_rank: 48
   lbs_rank: 59
-- angler: WH
+- angler: William Hearn
   inches: 46.0
   lbs: 5.61
   fish:
@@ -907,7 +907,7 @@ results:
     weight: 3.1
   inches_rank: 56
   lbs_rank: 50
-- angler: JC
+- angler: James Cain
   inches: 35.5
   lbs: 6.22
   fish:
@@ -937,7 +937,7 @@ results:
     weight: 2.81
   inches_rank: 59
   lbs_rank: 57
-- angler: MK
+- angler: Michael Kervaski
   inches: 34.5
   lbs: 5.69
   fish:
@@ -947,7 +947,7 @@ results:
     weight: 2.28
   inches_rank: 60
   lbs_rank: 60
-- angler: AM
+- angler: Anthony McDonald
   inches: 33.75
   lbs: 5.35
   fish:
@@ -1103,7 +1103,7 @@ results:
     weight: 6.06
   inches_rank: 76
   lbs_rank: 55
-- angler: NJ
+- angler: Nicholas Johnson
   inches: 21.25
   lbs: 5.82
   fish:
@@ -1159,7 +1159,7 @@ results:
     weight: 3.58
   inches_rank: 83
   lbs_rank: 79
-- angler: KS
+- angler: Kent Sawyer
   inches: 18.0
   lbs: 3.26
   fish:
@@ -1175,7 +1175,7 @@ results:
     weight: 3.1
   inches_rank: 85
   lbs_rank: 84
-- angler: TB
+- angler: Trenton Barber
   inches: 17.5
   lbs: 2.95
   fish:
@@ -1357,7 +1357,7 @@ results:
   fish: []
   inches_rank: 108
   lbs_rank: 157
-- angler: AK
+- angler: Alex Kovach
   inches: 0
   lbs: 0
   fish: []
@@ -1375,7 +1375,7 @@ results:
   fish: []
   inches_rank: 111
   lbs_rank: 160
-- angler: CL
+- angler: Chris Linville
   inches: 0
   lbs: 0
   fish: []
@@ -1405,13 +1405,13 @@ results:
   fish: []
   inches_rank: 116
   lbs_rank: 112
-- angler: JP
+- angler: James Perry
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 117
   lbs_rank: 113
-- angler: TP
+- angler: Treabhor Pierson
   inches: 0
   lbs: 0
   fish: []
@@ -1453,7 +1453,7 @@ results:
   fish: []
   inches_rank: 124
   lbs_rank: 120
-- angler: DS
+- angler: Derek Stroud
   inches: 0
   lbs: 0
   fish: []
@@ -1513,7 +1513,7 @@ results:
   fish: []
   inches_rank: 134
   lbs_rank: 129
-- angler: TY
+- angler: Teng Yang
   inches: 0
   lbs: 0
   fish: []
@@ -1585,7 +1585,7 @@ results:
   fish: []
   inches_rank: 146
   lbs_rank: 142
-- angler: TD
+- angler: Travis Duncan
   inches: 0
   lbs: 0
   fish: []
@@ -1615,7 +1615,7 @@ results:
   fish: []
   inches_rank: 151
   lbs_rank: 147
-- angler: JF
+- angler: Joshua Fussell
   inches: 0
   lbs: 0
   fish: []
@@ -1627,7 +1627,7 @@ results:
   fish: []
   inches_rank: 153
   lbs_rank: 149
-- angler: CG
+- angler: Colton Greaser
   inches: 0
   lbs: 0
   fish: []

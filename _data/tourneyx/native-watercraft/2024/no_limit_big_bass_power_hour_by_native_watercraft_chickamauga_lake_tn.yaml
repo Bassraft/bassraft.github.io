@@ -275,7 +275,7 @@ results:
     weight: 1.82
   inches_rank: 10
   lbs_rank: 10
-- angler: WM
+- angler: Will Miller
   inches: 98.75
   lbs: 14.52
   fish:
@@ -747,7 +747,7 @@ results:
     weight: 1.53
   inches_rank: 48
   lbs_rank: 55
-- angler: BE
+- angler: Brett Evans
   inches: 28.75
   lbs: 2.96
   fish:
@@ -799,7 +799,7 @@ results:
     weight: 5.13
   inches_rank: 54
   lbs_rank: 39
-- angler: TW
+- angler: Tyler Wells
   inches: 19.0
   lbs: 3.93
   fish:
@@ -1163,7 +1163,7 @@ results:
   fish: []
   inches_rank: 106
   lbs_rank: 94
-- angler: CL
+- angler: Christian Lesso
   inches: 0
   lbs: 0
   fish: []
@@ -1181,13 +1181,13 @@ results:
   fish: []
   inches_rank: 109
   lbs_rank: 97
-- angler: KM
+- angler: Keith Martin
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 110
   lbs_rank: 98
-- angler: MM
+- angler: Matthew McDonough
   inches: 0
   lbs: 0
   fish: []

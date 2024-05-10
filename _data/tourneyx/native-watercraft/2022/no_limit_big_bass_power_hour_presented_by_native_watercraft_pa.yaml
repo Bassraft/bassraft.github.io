@@ -515,7 +515,7 @@ results:
     weight: 1.35
   inches_rank: 21
   lbs_rank: 20
-- angler: TH
+- angler: Taylor Henderson
   inches: 95.0
   lbs: 12.92
   fish:
@@ -819,7 +819,7 @@ results:
     weight: 1.93
   inches_rank: 40
   lbs_rank: 35
-- angler: OM
+- angler: Oliver Martin
   inches: 66.75
   lbs: 10.18
   fish:
@@ -931,7 +931,7 @@ results:
     weight: 1.53
   inches_rank: 48
   lbs_rank: 51
-- angler: CB
+- angler: Cody Bressler
   inches: 61.0
   lbs: 7.47
   fish:
@@ -1047,7 +1047,7 @@ results:
     weight: 2.04
   inches_rank: 57
   lbs_rank: 56
-- angler: BS
+- angler: Brandon Sandy
   inches: 47.75
   lbs: 6.56
   fish:
@@ -1211,7 +1211,7 @@ results:
     weight: 3.42
   inches_rank: 71
   lbs_rank: 54
-- angler: MS
+- angler: Mike Salas
   inches: 36.75
   lbs: 7.0
   fish:
@@ -1411,7 +1411,7 @@ results:
     weight: 1.62
   inches_rank: 91
   lbs_rank: 92
-- angler: MM
+- angler: Matt McCluskey
   inches: 29.5
   lbs: 3.28
   fish:
@@ -1533,7 +1533,7 @@ results:
     weight: 2.4
   inches_rank: 105
   lbs_rank: 105
-- angler: RD
+- angler: Ryan Dunn
   inches: 16.25
   lbs: 2.28
   fish:
@@ -1587,7 +1587,7 @@ results:
   fish: []
   inches_rank: 112
   lbs_rank: 129
-- angler: mb
+- angler: michael bruce
   inches: 0
   lbs: 0
   fish: []
@@ -1665,12 +1665,12 @@ results:
   fish: []
   inches_rank: 125
   lbs_rank: 121
-- angler: BS
+- angler: Brian Salvitti
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 126
-  lbs_rank: 61
+  lbs_rank: 122
 - angler: Gerry Shappell
   inches: 0
   lbs: 0

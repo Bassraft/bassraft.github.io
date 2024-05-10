@@ -75,7 +75,7 @@ results:
     weight: 1.53
   inches_rank: 2
   lbs_rank: 2
-- angler: GB
+- angler: Greg Blanchard
   inches: 218.5
   lbs: 23.47
   fish:
@@ -473,7 +473,7 @@ results:
     weight: 1.82
   inches_rank: 18
   lbs_rank: 7
-- angler: PL
+- angler: Peter Lee
   inches: 117.5
   lbs: 12.89
   fish:
@@ -637,7 +637,7 @@ results:
     weight: 1.35
   inches_rank: 26
   lbs_rank: 27
-- angler: MW
+- angler: Matt Wong
   inches: 92.75
   lbs: 12.25
   fish:
@@ -673,7 +673,7 @@ results:
     weight: 1.53
   inches_rank: 28
   lbs_rank: 28
-- angler: TY
+- angler: Tubee Yang
   inches: 90.75
   lbs: 10.83
   fish:
@@ -1191,7 +1191,7 @@ results:
     weight: 1.35
   inches_rank: 61
   lbs_rank: 60
-- angler: AM
+- angler: Anthony Martinez
   inches: 58.5
   lbs: 6.33
   fish:
@@ -1291,7 +1291,7 @@ results:
     weight: 1.35
   inches_rank: 69
   lbs_rank: 71
-- angler: JC
+- angler: Josh Cope
   inches: 43.75
   lbs: 4.68
   fish:
@@ -1373,7 +1373,7 @@ results:
     weight: 2.04
   inches_rank: 77
   lbs_rank: 78
-- angler: JL
+- angler: Josh Lyons
   inches: 31.5
   lbs: 4.3
   fish:
@@ -1403,7 +1403,7 @@ results:
     weight: 1.93
   inches_rank: 80
   lbs_rank: 80
-- angler: WH
+- angler: William Hill
   inches: 31.0
   lbs: 3.9
   fish:
@@ -1621,7 +1621,7 @@ results:
     weight: 3.26
   inches_rank: 102
   lbs_rank: 94
-- angler: RT
+- angler: Randy Tambare
   inches: 18.0
   lbs: 3.26
   fish:
@@ -1733,7 +1733,7 @@ results:
     weight: 1.82
   inches_rank: 116
   lbs_rank: 116
-- angler: TL
+- angler: Teng Lo
   inches: 15.25
   lbs: 1.82
   fish:
@@ -1837,7 +1837,7 @@ results:
     weight: 1.44
   inches_rank: 129
   lbs_rank: 129
-- angler: TG
+- angler: Thomas Gallagher
   inches: 14.0
   lbs: 1.35
   fish:
@@ -1869,7 +1869,7 @@ results:
     weight: 1.35
   inches_rank: 133
   lbs_rank: 130
-- angler: PA
+- angler: Philip Abasolo
   inches: 14.0
   lbs: 1.35
   fish:
@@ -1893,7 +1893,7 @@ results:
     weight: 1.35
   inches_rank: 136
   lbs_rank: 136
-- angler: SR
+- angler: Shayne Robbins
   inches: 12.75
   lbs: 0.97
   fish:
@@ -1901,13 +1901,13 @@ results:
     weight: 0.97
   inches_rank: 137
   lbs_rank: 137
-- angler: AA
+- angler: Alex Ayala
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 138
   lbs_rank: 138
-- angler: CB
+- angler: Cody Barnes
   inches: 0
   lbs: 0
   fish: []
@@ -1991,7 +1991,7 @@ results:
   fish: []
   inches_rank: 152
   lbs_rank: 152
-- angler: BG
+- angler: Barry Gray
   inches: 0
   lbs: 0
   fish: []
@@ -2003,7 +2003,7 @@ results:
   fish: []
   inches_rank: 154
   lbs_rank: 154
-- angler: LK
+- angler: Leroy Kinser
   inches: 0
   lbs: 0
   fish: []
@@ -2045,7 +2045,7 @@ results:
   fish: []
   inches_rank: 161
   lbs_rank: 161
-- angler: EM
+- angler: Ernest Medina
   inches: 0
   lbs: 0
   fish: []
@@ -2069,7 +2069,7 @@ results:
   fish: []
   inches_rank: 165
   lbs_rank: 165
-- angler: KS
+- angler: Kae Saechao
   inches: 0
   lbs: 0
   fish: []
@@ -2117,7 +2117,7 @@ results:
   fish: []
   inches_rank: 173
   lbs_rank: 173
-- angler: NT
+- angler: Nick Trimble
   inches: 0
   lbs: 0
   fish: []

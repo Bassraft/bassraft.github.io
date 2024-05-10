@@ -43,7 +43,7 @@ results:
     weight: 2.16
   inches_rank: 1
   lbs_rank: 1
-- angler: GB
+- angler: Greg Blanchard
   inches: 279.75
   lbs: 41.01
   fish:
@@ -123,7 +123,7 @@ results:
     weight: 1.44
   inches_rank: 3
   lbs_rank: 3
-- angler: DP
+- angler: David Pham
   inches: 244.75
   lbs: 29.93
   fish:
@@ -519,7 +519,7 @@ results:
     weight: 1.82
   inches_rank: 17
   lbs_rank: 10
-- angler: PL
+- angler: Peter Lee
   inches: 134.25
   lbs: 20.58
   fish:
@@ -563,7 +563,7 @@ results:
     weight: 1.44
   inches_rank: 19
   lbs_rank: 17
-- angler: TY
+- angler: Tubee Yang
   inches: 126.75
   lbs: 16.8
   fish:
@@ -649,7 +649,7 @@ results:
     weight: 1.72
   inches_rank: 23
   lbs_rank: 13
-- angler: FB
+- angler: Fabian Briones
   inches: 113.5
   lbs: 16.41
   fish:
@@ -1139,7 +1139,7 @@ results:
     weight: 1.82
   inches_rank: 51
   lbs_rank: 46
-- angler: MN
+- angler: Michael Navarra
   inches: 65.75
   lbs: 9.56
   fish:
@@ -1279,7 +1279,7 @@ results:
     weight: 1.35
   inches_rank: 62
   lbs_rank: 62
-- angler: AM
+- angler: Anthony Martinez
   inches: 45.75
   lbs: 5.55
   fish:
@@ -1389,7 +1389,7 @@ results:
     weight: 2.53
   inches_rank: 73
   lbs_rank: 73
-- angler: JH
+- angler: John Hong
   inches: 16.0
   lbs: 2.16
   fish:
@@ -1521,13 +1521,13 @@ results:
   fish: []
   inches_rank: 90
   lbs_rank: 90
-- angler: CD
+- angler: Cody Dorrell
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 91
   lbs_rank: 91
-- angler: AF
+- angler: Al Failla
   inches: 0
   lbs: 0
   fish: []
@@ -1539,7 +1539,7 @@ results:
   fish: []
   inches_rank: 93
   lbs_rank: 93
-- angler: TK
+- angler: Tim Knox
   inches: 0
   lbs: 0
   fish: []
@@ -1563,7 +1563,7 @@ results:
   fish: []
   inches_rank: 97
   lbs_rank: 97
-- angler: FR
+- angler: Federico Reveles
   inches: 0
   lbs: 0
   fish: []

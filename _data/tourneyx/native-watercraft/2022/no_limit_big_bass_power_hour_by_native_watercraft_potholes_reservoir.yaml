@@ -217,7 +217,7 @@ results:
     weight: 1.72
   inches_rank: 9
   lbs_rank: 9
-- angler: BG
+- angler: Blade Gannon
   inches: 91.25
   lbs: 10.88
   fish:
@@ -563,7 +563,7 @@ results:
     weight: 2.16
   inches_rank: 38
   lbs_rank: 39
-- angler: ML
+- angler: Mike Love
   inches: 16.0
   lbs: 2.16
   fish:
@@ -635,13 +635,13 @@ results:
   fish: []
   inches_rank: 48
   lbs_rank: 62
-- angler: JD
+- angler: Jeff Dugger
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 49
   lbs_rank: 63
-- angler: JF
+- angler: Joseph Fletcher
   inches: 0
   lbs: 0
   fish: []
@@ -701,13 +701,13 @@ results:
   fish: []
   inches_rank: 59
   lbs_rank: 50
-- angler: Christian Ramos
+- angler: Victor Ramos
   inches: 0
   lbs: 0
   fish: []
   inches_rank: 60
   lbs_rank: 51
-- angler: Victor Ramos
+- angler: Christian Ramos
   inches: 0
   lbs: 0
   fish: []
