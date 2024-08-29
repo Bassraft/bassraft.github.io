@@ -30,7 +30,61 @@
     }
 }
 
+.no-padding-container {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
 
+.video-container {
+    width: 100%;
+    height: 90vh; /* Adjust as needed */
+    overflow: hidden;
+}
+
+.video-hero {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@mixin video-overlay($top, $font-size) {
+    position: absolute;
+    top: $top;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: $font-size;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    pointer-events: none; /* Ensures the text doesn't interfere with video controls */
+}
+
+.video-overlay-top {
+  @include video-overlay(70%, 4em);
+}
+
+.video-overlay-bottom {
+  @include video-overlay(70%, 2em);
+}
+
+.video-learn-more-btn {
+  color: white;
+  background-color: transparent;
+  border-color: white;
+  border-style: solid;
+  border-radius: 30px;
+  font-size: 0.5em;
+  width: 8em;
+  z-index: 10;
+  pointer-events: auto; /* Ensure the button is clickable */
+}
+
+.video-learn-more-btn:hover {
+  background-color: rgba(199, 204, 209, 0.7);
+}
 
 .masthead {
     @extend .top-section;
