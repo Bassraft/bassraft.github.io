@@ -65,19 +65,20 @@
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   text-align: center;
   pointer-events: none; /* Ensures the text doesn't interfere with video controls */
+  width: 100%;
 }
 
 .video-overlay-top {
-  @include video-overlay-text(65%, 4em);
+  @include video-overlay-text(72%, 2em);
 }
 
 .video-overlay-bottom {
-  @include video-overlay-text(73%, 2em);
+  @include video-overlay-text(78%, 1.2em);
   pointer-events: auto; /* Ensures the button is clickable */
 }
 
 .video-learn-more-btn {
-  @include video-overlay-content(82%, 2em);
+  @include video-overlay-content(84%, 1.5em);
   background-color: transparent;
   border-color: white;
   border-style: solid;
@@ -87,6 +88,63 @@
 
 .video-learn-more-btn:hover {
   background-color: rgba(199, 204, 209, 0.7);
+}
+
+@include media-breakpoint-up(xs) {
+
+  .video-overlay-top {
+    top: 74%;
+    font-size: 2.0em;
+  }
+
+  .video-overlay-bottom {
+    top: 80%;
+    font-size: 1.2em;
+  }
+
+  .video-learn-more-btn {
+    top: 87%;
+    font-size: 1.5em;
+  }
+
+}
+
+@include media-breakpoint-up(md) {
+
+  .video-overlay-top {
+    top: 70%;
+    font-size: 3.4em;
+  }
+
+  .video-overlay-bottom {
+    top: 77%;
+    font-size: 1.4em;
+  }
+
+  .video-learn-more-btn {
+    top: 84%;
+    font-size: 1.4em;
+  }
+
+}
+
+@include media-breakpoint-up(lg) {
+
+  .video-overlay-top {
+    top: 65%;
+    font-size: 4em;
+  }
+
+  .video-overlay-bottom {
+    top: 73%;
+    font-size: 2em;
+  }
+
+  .video-learn-more-btn {
+    top: 82%;
+    font-size: 2em;
+  }
+
 }
 
 .masthead {
