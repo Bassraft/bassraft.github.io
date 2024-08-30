@@ -49,37 +49,40 @@
     object-fit: cover;
 }
 
-@mixin video-overlay($top, $font-size) {
-    position: absolute;
-    top: $top;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: $font-size;
-    font-weight: bold;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    pointer-events: none; /* Ensures the text doesn't interfere with video controls */
+@mixin video-overlay-content($top, $font-size) {
+  position: absolute;
+  top: $top;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: $font-size;
+  z-index: 10;
+}
+
+@mixin video-overlay-text($top, $font-size) {
+  @include video-overlay-content($top, $font-size);
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  pointer-events: none; /* Ensures the text doesn't interfere with video controls */
 }
 
 .video-overlay-top {
-  @include video-overlay(70%, 4em);
+  @include video-overlay-text(65%, 4em);
 }
 
 .video-overlay-bottom {
-  @include video-overlay(70%, 2em);
+  @include video-overlay-text(73%, 2em);
+  pointer-events: auto; /* Ensures the button is clickable */
 }
 
 .video-learn-more-btn {
-  color: white;
+  @include video-overlay-content(82%, 2em);
   background-color: transparent;
   border-color: white;
   border-style: solid;
   border-radius: 30px;
-  font-size: 0.5em;
   width: 8em;
-  z-index: 10;
-  pointer-events: auto; /* Ensure the button is clickable */
 }
 
 .video-learn-more-btn:hover {

@@ -72,6 +72,17 @@ img.usa {
 
 // Desktop styling
 
+// This element is visible on medium screens and hidden on large screens.
+.show-on-md {
+  @extend .d-block;
+  @extend .d-lg-none;
+}
+
+// This element is hidden on medium screens and visible on large screens.
+.show-on-lg {
+  @extend .d-lg-block;
+  @extend .d-none;
+}
 
 @include media-breakpoint-up(lg) {
 
