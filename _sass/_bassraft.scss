@@ -72,10 +72,16 @@ img.usa {
 
 // Desktop styling
 
-// This element is visible on medium screens and hidden on large screens.
-.show-on-md {
+// This element is visible on small screens (or smaller) and hidden on larger screens.
+.show-on-sm {
   @extend .d-block;
-  @extend .d-lg-none;
+  @extend .d-md-none;
+}
+
+// This element is visible on medium screens (or smaller) and hidden on larger screens.
+.show-on-md {
+  @extend .d-md-block;
+  @extend .d-none;
 }
 
 // This element is hidden on medium screens and visible on large screens.

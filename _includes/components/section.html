@@ -1,3 +1,6 @@
-<section class="{% if include.section_style %}section-{% endif %}{{ include.section_style | default: 'section-light' }}">
+<section class="{% if include.section_style %}section-{% endif %}{{ include.section_style | default: 'section-light' }} {% if include.section_small %}section-container-sm{% else %}section-container{% endif %}">
     {% include {{ include.name }}.html %}      
 </section>
+
+
+

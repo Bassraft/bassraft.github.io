@@ -20,8 +20,9 @@
 
 
 .video-container {
+    position: relative;
     width: 100%;
-    height: 90vh; /* Adjust as needed */
+    height: 100vh;
     overflow: hidden;
 
   video.video-hero {
@@ -38,7 +39,6 @@
 
   .video-overlay-bottom {
     @include video-overlay-text(78%, 1.2em);
-    pointer-events: auto; /* Ensures the button is clickable */
   }
 
   .video-learn-more-btn {
@@ -62,17 +62,17 @@
   @include media-breakpoint-up(xs) {
 
     .video-overlay-top {
-      top: 74%;
+      top: 70%;
       font-size: 2.0em;
     }
 
     .video-overlay-bottom {
-      top: 80%;
+      top: 76%;
       font-size: 1.2em;
     }
 
     .video-learn-more-btn {
-      top: 87%;
+      top: 81%;
       font-size: 1.5em;
     }
 
