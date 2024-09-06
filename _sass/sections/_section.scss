@@ -29,6 +29,7 @@
 
 .section-container-sm {
   @extend .section-container;
+  @extend .p-3;
   height: auto;
 }
 
@@ -46,6 +47,14 @@ section {
 
   .overlay-bottom {
     @include section-overlay-text(18%, 0.8em);
+  }
+
+  .overlay-top-m {
+    @include section-overlay-text(37%, 1.3em);
+  }
+
+  .overlay-bottom-m {
+    @include section-overlay-text(38%, 0.8em);
   }
 
   .hookset-background {
@@ -73,6 +82,16 @@ section {
 
     .overlay-bottom {
       top: 20%;
+      font-size: 1.0em;
+    }
+
+    .overlay-top-m {
+      top: 38%;
+      font-size: 1.8em;
+    }
+
+    .overlay-bottom-m {
+      top: 40%;
       font-size: 1.0em;
     }
 
@@ -106,6 +125,16 @@ section {
       font-size: 1.2em;
     }
 
+    .overlay-top-m {
+      top: 36%;
+      font-size: 2.4em;
+    }
+
+    .overlay-bottom-m {
+      top: 38%;
+      font-size: 1.2em;
+    }
+
   }
 
   @include media-breakpoint-up(lg) {
@@ -117,6 +146,16 @@ section {
 
     .overlay-bottom {
       top: 19%;
+      font-size: 1.4em;
+    }
+
+    .overlay-top-m {
+      top: 36%;
+      font-size: 3.0em;
+    }
+
+    .overlay-bottom-m {
+      top: 39%;
       font-size: 1.4em;
     }
 
