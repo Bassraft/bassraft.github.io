@@ -12,6 +12,16 @@
   width: 100%;
 }
 
+@mixin section-btn {
+    @include section-overlay-text(84%, 1.5em);
+    background-color: transparent;
+    border-color: white;
+    border-style: solid;
+    border-radius: 30px;
+    width: 8em;
+  }
+
+
 @mixin background-image($path) {
   background-image: url($path);
   background-size: cover;
@@ -41,20 +51,37 @@ section {
   padding-bottom: 0em;
   padding-top: 0em;
 
+  $xs-size-top: 1.6em;
+  $xs-size-bottom: 0.7em;
+  $sm-size-top: 2.4em;
+  $sm-size-bottom: 0.9em;
+  $md-size-top: 3.1em;
+  $md-size-bottom: 1.0em;
+  $lg-size-top: 3.6em;
+  $lg-size-bottom: 1.2em;
+
+  .learn-more-btn {
+    @include section-btn;
+  }
+
+  .learn-more-btn:hover {
+    background-color: rgba(199, 204, 209, 0.7);
+  }
+
   .overlay-top {
-    @include section-overlay-text(17%, 1.3em);
+    @include section-overlay-text(17%, $xs-size-top);
   }
 
   .overlay-bottom {
-    @include section-overlay-text(18%, 0.8em);
+    @include section-overlay-text(18%, $xs-size-bottom);
   }
 
   .overlay-top-m {
-    @include section-overlay-text(37%, 1.3em);
+    @include section-overlay-text(37%, $xs-size-top);
   }
 
   .overlay-bottom-m {
-    @include section-overlay-text(38%, 0.8em);
+    @include section-overlay-text(38%, $xs-size-bottom);
   }
 
   .hookset-background {
@@ -72,27 +99,31 @@ section {
   .visibility-background {
     @include background-image('/assets/images/sections/visibility-sm.jpg');
   }
+
+  .portability-background {
+    @include background-image('/assets/images/sections/portability-sm.jpg');
+  }
   
   @include media-breakpoint-up(sm) {
 
     .overlay-top {
       top: 18%;
-      font-size: 1.8em;
+      font-size: $sm-size-top;
     }
 
     .overlay-bottom {
       top: 20%;
-      font-size: 1.0em;
+      font-size: $sm-size-bottom;
     }
 
     .overlay-top-m {
       top: 38%;
-      font-size: 1.8em;
+      font-size: $sm-size-top;
     }
 
     .overlay-bottom-m {
       top: 40%;
-      font-size: 1.0em;
+      font-size: $sm-size-bottom;
     }
 
   }
@@ -115,24 +146,28 @@ section {
       background-image: url('/assets/images/sections/visibility.jpg');
     }   
 
+    .portability-background {
+      background-image: url('/assets/images/sections/portability.jpg');
+    }
+
     .overlay-top {
       top: 16%;
-      font-size: 2.4em;
+      font-size: $md-size-top;
     }
 
     .overlay-bottom {
       top: 18%;
-      font-size: 1.2em;
+      font-size: $md-size-bottom;
     }
 
     .overlay-top-m {
       top: 36%;
-      font-size: 2.4em;
+      font-size: $md-size-top;
     }
 
     .overlay-bottom-m {
       top: 38%;
-      font-size: 1.2em;
+      font-size: $md-size-bottom;
     }
 
   }
@@ -141,22 +176,22 @@ section {
 
     .overlay-top {
       top: 16%;
-      font-size: 3.0em;
+      font-size: $lg-size-top;
     }
 
     .overlay-bottom {
-      top: 19%;
-      font-size: 1.4em;
+      top: 21%;
+      font-size: $lg-size-bottom;
     }
 
     .overlay-top-m {
       top: 36%;
-      font-size: 3.0em;
+      font-size: $lg-size-top;
     }
 
     .overlay-bottom-m {
-      top: 39%;
-      font-size: 1.4em;
+      top: 41%;
+      font-size: $lg-size-bottom;
     }
 
   }
