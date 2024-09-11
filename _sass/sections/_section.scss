@@ -13,12 +13,13 @@
 }
 
 @mixin section-btn {
-    @include section-overlay-text(84%, 1.5em);
+    color: white;
     background-color: transparent;
     border-color: white;
     border-style: solid;
     border-radius: 30px;
     width: 8em;
+    text-align: center;
   }
 
 
