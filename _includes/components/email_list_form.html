@@ -46,12 +46,12 @@
           if (Object.hasOwn(data, 'errors')) {
             status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
           } else {
-            status.innerHTML = "Oops! Something went wrong. Try just emailing waitlist@bassraft.com"
+            status.innerHTML = "Oops! Something went wrong. Try just emailing joey@bassraft.com"
           }
         })
       }
     }).catch(error => {
-        status.innerHTML = "Oops! Something went wrong. Try just emailing waitlist@bassraft.com"
+        status.innerHTML = "Oops! Something went wrong. Try just emailing joey@bassraft.com"
     });
   }
   form.addEventListener("submit", handleSubmit)
