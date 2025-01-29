@@ -1,0 +1,42 @@
+
+.post {
+ 
+  text-align: center;
+   
+  h1 {
+  }
+
+  p {
+    text-align: left;
+    font-size: 0.75em;
+  }
+
+  .exerpt {
+    background-color: white;
+  }
+
+  .post-image {
+    max-height: 300px;
+    max-width: 300px;
+  }
+
+
+}
+
+
+@include media-breakpoint-up(lg) {
+
+
+  .post {
+   
+    .post-image {
+      max-height: 300px;
+      max-width: 500px;
+    }
+
+  }
+
+
+}
+
+
