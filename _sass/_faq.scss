@@ -1,7 +1,6 @@
 
  
 .faq-question {
-    @extend .text-uppercase;
     font-size: 0.8em;
     cursor: pointer;
 }
@@ -13,7 +12,6 @@
 @include media-breakpoint-up(lg) {
 
   .faq-question {
-      @extend .text-uppercase;
       font-weight: bold;
       font-size: 1.0em;
       cursor: pointer;
