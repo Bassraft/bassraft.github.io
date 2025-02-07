@@ -5,9 +5,11 @@ layout: content
 
 {% for q in site.data.faq %}
   <div class="row">
-    <div class="col d-flex exerpt justify-content-between align-items-center" data-bs-toggle="collapse" href="#answer-{{ forloop.index }}">
+    <div class="col d-flex exerpt justify-content-between align-items-center" 
+      data-bs-toggle="collapse" href="#answer-{{ forloop.index }}"
+                                onclick="togglePlusMinus('plus-{{ forloop.index }}')">
         <span class="faq-question text-uppercase">{{ q.question }}</span>
-        <span class="ml-auto">+</span>
+        <span class="ml-auto" id="plus-{{ forloop.index }}">+</span>
     </div>
     <hr/>
   </div>
