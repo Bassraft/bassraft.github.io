@@ -1,0 +1,31 @@
+
+ 
+.faq-question {
+    @extend .text-uppercase;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+.faq-answer {
+    font-size: 0.8em;
+}
+
+@include media-breakpoint-up(lg) {
+
+  .faq-question {
+      @extend .text-uppercase;
+      font-weight: bold;
+      font-size: 1.0em;
+      cursor: pointer;
+      padding: 10px;
+  }
+
+  .faq-answer {
+      font-size: 0.8em;
+  }
+
+}
+
+
+
+

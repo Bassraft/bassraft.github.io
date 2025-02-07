@@ -1,36 +1,23 @@
 ---
-title: All the latest Bass Raft news and opinions
-layout: standard
+title: The latest Bass Raft news and opinions
+layout: content
 ---
 
-<section class="section-light section-container-fit post">
-  <div class="fs-4 p-lg-5 p-4">
-    <div class="row">
-      <p></p>
-      <h1>The Latest...</h1>
-      <div class="col-lg-2"></div> 
-      <div class="col-lg-8 m-lg-5 mt-5 p-lg-5 exerpt">
-        {% for post in site.posts %}
-          <div>
-            <p class="fs-6">{{ post.date | date: "%B %d, %Y" }} posted by {{ post.author }}</p>
-            <h2>{{ post.title }}</h2>
-            {% if post.image %}
-              <br/>
-              <img class="post-image" src="{{ post.image }}" alt="Post image"/>
-              <br/>
-            {% endif %}
-            <p>
-              {{ post.excerpt | strip_html }} 
-              <br/>
-              <a class="fs-6" href="{{ post.url }}"> ...read more</a>
-            </p>
-            <br/>
-            <hr/>
-          </div>
-        {% endfor %}
-      </div>
-      <div class="col-lg-2"></div> 
-    </div>
+{% for post in site.posts %}
+  <div>
+    <p class="fs-6">{{ post.date | date: "%B %d, %Y" }} posted by {{ post.author }}</p>
+    <h2>{{ post.title }}</h2>
+    {% if post.image %}
+      <br/>
+      <img class="post-image" src="{{ post.image }}" alt="Post image"/>
+      <br/>
+    {% endif %}
+    <p>
+      {{ post.excerpt | strip_html }} 
+      <br/>
+      <a class="fs-6" href="{{ post.url }}"> ...read more</a>
+    </p>
+    <br/>
+    <hr/>
   </div>
-</section>
-
+{% endfor %}

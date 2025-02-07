@@ -1,0 +1,28 @@
+---
+title: Frequently Asked Bass Raft Questions
+layout: content
+---
+
+{% for q in site.data.faq %}
+  <div class="row">
+    <div class="col d-flex exerpt justify-content-between align-items-center" data-bs-toggle="collapse" href="#answer-{{ forloop.index }}">
+        <span class="faq-question">{{ q.question }}</span>
+        <span class="ml-auto">+</span>
+    </div>
+    <hr/>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="faq-answer collapse" id="answer-{{ forloop.index }}">
+        {{ q.answer }}
+        <hr/>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+<br/>
+<br/>
+<br/>
+{% include components/section.html name="contact" section_style="light" section_fit="true" %}
+
