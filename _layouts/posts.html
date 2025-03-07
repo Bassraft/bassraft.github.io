@@ -3,13 +3,13 @@ layout: content
 ---
 
 {% if page.image %}
-  <br/>
   <img class="post-image" src="{{ page.image }}" alt="Post image"/>
   <br/>
 {% endif %}
 <p>
   {{ content }}
   <br/>
+  {{ page.date | date: "%B %d, %Y" }} by {{ page.author }}
 </p>
 
 

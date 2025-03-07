@@ -1,7 +1,8 @@
 
 .post {
- 
+
   text-align: center;
+  background-color: white;
    
   p {
     text-align: left;
@@ -17,6 +18,27 @@
     max-width: 300px;
   }
 
+
+  li {
+    text-align: left;
+    font-size: 0.75em;
+    list-style-type: none; /* Removes the default bullet */
+    padding-left: 0; /* Removes default padding */
+    position: relative; /* Needed for positioning the pseudo-element */
+    padding-left: 30px; /* Space for the checkmark */
+    margin-bottom: 0px; /* Space between list items */
+  }
+
+
+  /* Add the green checkmark using ::before */
+  li::before {
+    content: "✓"; /* Unicode checkmark character */
+    position: absolute;
+    left: 0;
+    top: 1px;
+    color: #28a745;
+    font-size: 1.25; /* Size of the checkmark */
+  }
 
 }
 

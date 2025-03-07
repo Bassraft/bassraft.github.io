@@ -4,10 +4,14 @@
 
 // Define Grayscale values used in variables before Bootstrap loads
 $gray-900: #212529;
+$light-gray: #d0d0d0;
+$almost-white: #f0f0f0;
+$light-blue-gray: rgb(200, 220, 230); 
 $bass-raft-silver: #c0c0c0;
 
 // Override Bootstrap color and state values
 $primary: $bass-raft-silver;
+$secondary: $light-gray;
 
 // Override Bootstrap default contrast ratio
 $min-contrast-ratio: 3;

@@ -58,6 +58,16 @@ img.usa {
   @extend .fs-3;
 }
 
+
+.bg-light {
+  background-color: $light-gray;
+}
+
+.bg-lighter {
+  background-color: $almost-white;
+}
+
+
 .yellow {
   background-color: yellow;
 }

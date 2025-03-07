@@ -8,3 +8,8 @@ function togglePlusMinus(theId) {
       theElement.innerHTML = "+";
   }
 }
+
+function toggleVipInfo(theId) {
+  document.getElementById(theId).innerHTML = "";
+}
+
