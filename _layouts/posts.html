@@ -9,7 +9,13 @@ layout: content
 <p>
   {{ content }}
   <br/>
+  {% if page.previous.url %}
+  <a href="{{page.previous.url}}">&laquo;&nbsp;</a>
+  {% endif %}
+
   {{ page.date | date: "%B %d, %Y" }} by {{ page.author }}
+
+  {% if page.next.url %}
+  <a href="{{page.next.url}}">&nbsp;&raquo;</a>
+  {% endif %}
 </p>
-
-

@@ -1,44 +1,47 @@
 <section class="section-dark section-container-fit">
     <div class="col mt-5">
-      <h1 class="text-center pt-4 pb-4">Be a Bass Raft VIP Customer</h1>
+      <h1 class="text-center pt-4 pb-4">Join the Elite Ten</h1>
       <div class="fs-4 ps-lg-5 row">
         <div class="col-lg-4"></div>
         <div class="col-lg-4">
           <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Lifetime unconditional warranty.</div>
-          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Upgrade to a future model, free!</div>
+          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Upgrade to a future model, free.</div>
           <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Free delivery in the lower 48.</div>
           <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Free Bass Raft swag.</div>
-          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Only for our first 10 customers!</div>
-          <div data-bs-toggle="collapse" href="#vip-info" onclick="toggleVipInfo('learn-more-button')">
-            <div class="text-center pt-4" id="learn-more-button"><a href="#" class="btn btn-primary" role="button" target="_blank">Learn more</a></div>
-          </div>
-
-          <div class="collapse" id="vip-info">
-            {% include components/vip-story.md %}
-          </div>
-          
+          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Only for our first 10 customers! Hurry!</div> 
         </div>
         <div class="col-lg-4"></div>
+      </div>
+      <div data-bs-toggle="collapse" href="#vip-info" onclick="toggleVipInfo('learn-more-button')">
+        <div class="pt-4 text-center" id="learn-more-button">
+          <a href="#"><button type="button" class="learn-more-btn">Read More</button></a>
+        </div>
+      </div>
+      <div class="collapse" id="vip-info">
+        {% capture details %}{% include components/vip-story.md %}{% endcapture %}
+        {{ details | markdownify }}
       </div>
     </div>
 </section>
 
 <section class="section-light text-center">
 
-{% for raft in site.data.catalog %}
 
   <div class="row d-flex flex-row align-items-center {% cycle 'bg-light', 'bg-ligher' %}">
-    <div class="col-lg-6 p-3">
-      <h3>{{ raft.title }} </h3>
-      <p>{{ raft.desc }}</p>
-      <div><a href="https://bass-raft.helcim.app" class="btn btn-primary" role="button" target="_blank" rel="noopener noreferrer">Buy Now</a></div>
-    </div>
-    <div class="col-lg-6 p-3">
-      <img class="catalog-item" src="/assets/images/catalog/{{ raft.img}}" class="img-fluid" alt="{{ raft.title }}">
-    </div>
+    {% for raft in site.data.catalog %}
+        <div class="col-lg-4 p-3">
+          <h5>{{ raft.title }}</h5>
+          <img class="catalog-item" src="/assets/images/catalog/{{ raft.img}}" class="img-fluid" alt="{{ raft.title }}">
+          <hr/>
+          <p class="ps-5 pe-5">{{ raft.desc }}</p>
+          <div class=""><span>*</span> Lifetime unconditional warranty.</div>
+          <div class=""><span>*</span> Never fall in again.</div>
+          <div><a href="https://bass-raft.helcim.app" class="btn btn-primary" role="button" target="_blank" rel="noopener noreferrer">Buy Now</a></div>
+          <hr/>
+        </div>
+    {% endfor %}
   </div>
 
-{% endfor %}
 
 
 </section>
