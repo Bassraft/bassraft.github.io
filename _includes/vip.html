@@ -1,25 +1,32 @@
 <section class="section-dark section-container-fit">
     <div class="col mt-5">
-      <h1 class="text-center pt-4 pb-4">Join the Elite Ten</h1>
-      <div class="fs-4 ps-lg-5 row">
-        <div class="col-lg-4"></div>
-        <div class="col-lg-4">
-          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Lifetime unconditional warranty.</div>
-          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Upgrade to a future model, free.</div>
-          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Free delivery in the lower 48.</div>
-          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Free Bass Raft swag.</div>
-          <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Only for our first 10 customers! Hurry!</div> 
+      <h1 class="text-center pt-2 pb-2">The Bass Raft Elite 8! 🏀</h1>
+      <h4 class="text-center pt-2 pb-2">Buy a Bass Raft before the end of April and get a deal you won't beleive!</h4>
+      <div class="collapse" id="vip-info">
+        <div class="fs-4 ps-lg-5 row">
+          <div class="col-lg-4"></div>
+          <div class="col-lg-4">
+            <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Lifetime unconditional warranty.</div>
+            <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Upgrade to a future model, free.</div>
+            <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Free delivery in the lower 48.</div>
+            <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Bass Raft swag.</div>
+            <div class="fs-4 ps-lg-5"><span class="checkmark">✓</span> Only for the first 8 customers!</div> 
+          </div>
+          <div class="col-lg-4"></div>
         </div>
-        <div class="col-lg-4"></div>
+        <div class="fs-4 ps-lg-5 row">
+          <div class="col-lg-3"></div>
+          <div class="col-lg-6">
+            {% capture details %}{% include components/vip-story.md %}{% endcapture %}
+            {{ details | markdownify }}
+          </div>
+          <div class="col-lg-3"></div>
+        </div>
       </div>
       <div data-bs-toggle="collapse" href="#vip-info" onclick="toggleVipInfo('learn-more-button')">
-        <div class="pt-4 text-center" id="learn-more-button">
-          <a href="#"><button type="button" class="learn-more-btn">Read More</button></a>
+        <div class="pt-4 pb-2 text-center" >
+          <a href="#"><button type="button" id="learn-more-button" class="learn-more-btn">Learn More</button></a>
         </div>
-      </div>
-      <div class="collapse" id="vip-info">
-        {% capture details %}{% include components/vip-story.md %}{% endcapture %}
-        {{ details | markdownify }}
       </div>
     </div>
 </section>
@@ -34,8 +41,8 @@
           <img class="catalog-item" src="/assets/images/catalog/{{ raft.img}}" class="img-fluid" alt="{{ raft.title }}">
           <hr/>
           <p class="ps-5 pe-5">{{ raft.desc }}</p>
-          <div class=""><span>*</span> Lifetime unconditional warranty.</div>
-          <div class=""><span>*</span> Never fall in again.</div>
+          <div class="text-start"><span>*</span> Lifetime unconditional warranty.</div>
+          <div class="text-start"><span>*</span> Never fall in again.</div>
           <div><a href="https://bass-raft.helcim.app" class="btn btn-primary" role="button" target="_blank" rel="noopener noreferrer">Buy Now</a></div>
           <hr/>
         </div>
