@@ -1,16 +1,16 @@
 ---
 - title: Original
-  desc: This is the OG. The Bass Raft that started it all. A great combination of size and portability.
-  price: 199.99
-  img: bassraft-original-full-rear-sm.jpg
-  weight: 20
+  desc: The Bass Raft that started it all. The best fishing experience in the kayak fishing world!
+  price: $5899
+  img: bassraft-original.jpg
+  weight: 60
 - title: Tournament Edition
-  desc: Designed for kayak fishing tournaments, with a little longer floats and extra goodness all over.
-  price: 199.99
-  weight: 22
-  img: bassraft-original-full-rear-sm.jpg
+  desc: Designed for kayak fishing tournaments with more flotation and integrates with more accessories.
+  price: $6499
+  weight: 70
+  img: tournement-edition.jpg
 - title: Fly Weight
-  desc: It a weight class all by itself. 
-  price: 199.99
-  img: bassraft-original-full-rear-sm.jpg
-  weight: 18
+  desc: Coming later this year, the Fly Weight will be smaller and lighter than anything we've built so far.
+  price: $TBD
+  img: fly-weight-coming-soon.jpg
+  weight: 45
