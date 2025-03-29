@@ -43,8 +43,9 @@
 
   .video-learn-more-btn {
     @include video-overlay-content(84%, 1.5em);
-    background-color: transparent;
+    background-color: rgba(199, 204, 209, 0.2);
     border-color: white;
+    border-width: 5px;
     border-style: solid;
     border-radius: 30px;
     width: 8em;
